@@ -25,6 +25,8 @@ The software is implemented as a 3-pass data pipeline.
 ### Prerequisites
 - Python 3.12+
 - OpenAI API key
+- Reddit comment data. https://the-eye.eu/redarcs. Download the `submissions.zst` and `comments.zst` files, and place them under `data/raw_reddit` directory
+- NOTE: As of Nov 2025, Reddit only issues new API keys on an approval basis, so we can only use archived comment data, instead of ingesting data directly from the API, unfortunately: https://www.reddit.com/r/redditdev/comments/1oug31u/introducing_the_responsible_builder_policy_new/
 
 ### Installation
 ```bash
