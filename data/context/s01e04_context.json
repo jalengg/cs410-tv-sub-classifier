@@ -1,0 +1,227 @@
+{
+  "entities": [
+    {
+      "canonical_name": "Mark Scout",
+      "aliases": [
+        "Mark",
+        "Mark S.",
+        "MS",
+        "our boy mark"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 59
+    },
+    {
+      "canonical_name": "Helly R.",
+      "aliases": [
+        "Helly",
+        "Helly R.",
+        "Helly R.",
+        "innies",
+        "outtie Helly"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 45
+    },
+    {
+      "canonical_name": "Irving",
+      "aliases": [
+        "Irv",
+        "Irving",
+        "Irvie"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 30
+    },
+    {
+      "canonical_name": "Burt",
+      "aliases": [
+        "Burt",
+        "Burt and Irv"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 20
+    },
+    {
+      "canonical_name": "Petey",
+      "aliases": [
+        "Petey",
+        "Petey's outtie",
+        "Petey's chip"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 25
+    },
+    {
+      "canonical_name": "Harmony Cobel",
+      "aliases": [
+        "Cobel",
+        "Ms. Selvig"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 20
+    },
+    {
+      "canonical_name": "Kier Eagan",
+      "aliases": [
+        "Kier",
+        "Eagan"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 15
+    },
+    {
+      "canonical_name": "Dylan",
+      "aliases": [
+        "Dylan",
+        "Dylan's outtie"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 15
+    },
+    {
+      "canonical_name": "Ricken",
+      "aliases": [
+        "Ricken",
+        "Ricken's book"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 10
+    },
+    {
+      "canonical_name": "Graner",
+      "aliases": [
+        "Mr. Graner"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 5
+    },
+    {
+      "canonical_name": "Felicia",
+      "aliases": [
+        "Felicia"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 5
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "canonical_description": "Helly's escape attempt in the elevator",
+      "variations": [
+        "when Helly tried to escape",
+        "the elevator scene",
+        "Helly's first day escape"
+      ],
+      "confidence": "high",
+      "mention_count": 12
+    },
+    {
+      "id": 2,
+      "canonical_description": "Mark visits the tree where his wife died",
+      "variations": [
+        "Mark at the tree",
+        "Mark crying at the tree",
+        "Mark's visit to the memorial tree"
+      ],
+      "confidence": "high",
+      "mention_count": 10
+    },
+    {
+      "id": 3,
+      "canonical_description": "Petey's funeral and the video",
+      "variations": [
+        "the funeral scene",
+        "Petey's funeral",
+        "the video at Petey's funeral"
+      ],
+      "confidence": "high",
+      "mention_count": 15
+    },
+    {
+      "id": 4,
+      "canonical_description": "The break room session with Helly",
+      "variations": [
+        "Helly in the break room",
+        "the break room scene",
+        "Helly's session in the break room"
+      ],
+      "confidence": "high",
+      "mention_count": 8
+    }
+  ],
+  "theories": [
+    {
+      "category": "character_identity",
+      "canonical_claim": "Helly is a member of the Eagan family",
+      "consensus": "strong_support",
+      "confidence": "high",
+      "mention_count": 15,
+      "sample_phrasings": [
+        "Helly is an Eagan",
+        "She's definitely related to the Eagans",
+        "The Helly/Eagan connection is obvious"
+      ]
+    },
+    {
+      "category": "plot_prediction",
+      "canonical_claim": "Helly's outtie is part of a resistance against Lumon",
+      "consensus": "moderate_support",
+      "confidence": "medium",
+      "mention_count": 10,
+      "sample_phrasings": [
+        "Helly is part of the resistance",
+        "Her outtie is trying to take down Lumon",
+        "Helly's outtie has ulterior motives"
+      ]
+    },
+    {
+      "category": "workplace_nature",
+      "canonical_claim": "The severance procedure is a form of psychological control",
+      "consensus": "strong_support",
+      "confidence": "high",
+      "mention_count": 12,
+      "sample_phrasings": [
+        "It's a psychological experiment",
+        "They're being controlled by Lumon",
+        "Severance is a form of mind control"
+      ]
+    },
+    {
+      "category": "conspiracy",
+      "canonical_claim": "Lumon is using severed employees for experiments",
+      "consensus": "strong_support",
+      "confidence": "high",
+      "mention_count": 10,
+      "sample_phrasings": [
+        "They're testing the severance process",
+        "Lumon is conducting experiments",
+        "The severed floor is a lab"
+      ]
+    }
+  ],
+  "metadata": {
+    "season": 1,
+    "episode": 4,
+    "episode_title": "Severance - 1x04 \"The You You Are\" - Episode Discussion",
+    "comment_count": 1736,
+    "extraction_date": "2025-12-09T01:18:20.814430",
+    "model": "gpt-4o-mini",
+    "input_tokens": 82289,
+    "output_tokens": 1257,
+    "total_tokens": 83546,
+    "cost": 0.013097550000000001
+  }
+}

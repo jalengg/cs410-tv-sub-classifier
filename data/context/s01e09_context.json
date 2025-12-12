@@ -1,0 +1,248 @@
+{
+  "entities": [
+    {
+      "canonical_name": "Mark Scout",
+      "aliases": [
+        "Mark",
+        "Mark S.",
+        "MS",
+        "our boy mark"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 59
+    },
+    {
+      "canonical_name": "Helly R",
+      "aliases": [
+        "Helly",
+        "Helly R.",
+        "Helena Eagan"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 45
+    },
+    {
+      "canonical_name": "Irving",
+      "aliases": [
+        "Irv",
+        "Irving G.",
+        "Irving's outie"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 38
+    },
+    {
+      "canonical_name": "Dylan",
+      "aliases": [
+        "Dylan G.",
+        "Dylan Griffin"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 30
+    },
+    {
+      "canonical_name": "Cobel",
+      "aliases": [
+        "Ms. Cobel",
+        "Harmony Cobel",
+        "Mrs. Selvig"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 28
+    },
+    {
+      "canonical_name": "Gemma",
+      "aliases": [
+        "Ms. Casey",
+        "Gemma Casey"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 25
+    },
+    {
+      "canonical_name": "Ricken",
+      "aliases": [
+        "Ricken's outie",
+        "Ricken"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 20
+    },
+    {
+      "canonical_name": "Kier Eagan",
+      "aliases": [
+        "Kier",
+        "the grandfather"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 15
+    },
+    {
+      "canonical_name": "Burt",
+      "aliases": [
+        "Burt G.",
+        "Burt Goodman"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 12
+    },
+    {
+      "canonical_name": "Natalie",
+      "aliases": [
+        "Natalie",
+        "Natalie the security guard"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 10
+    },
+    {
+      "canonical_name": "Petey",
+      "aliases": [
+        "Petey",
+        "Petey's outie"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 8
+    },
+    {
+      "canonical_name": "Ms. Selvig",
+      "aliases": [
+        "Cobel",
+        "Harmony"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 7
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "canonical_description": "Mark reveals Gemma is alive to Devon",
+      "variations": [
+        "Mark tells his sister Gemma is alive",
+        "Mark's emotional reveal about Gemma",
+        "Mark screams she's alive"
+      ],
+      "confidence": "high",
+      "mention_count": 25
+    },
+    {
+      "id": 2,
+      "canonical_description": "Helly's speech at the gala",
+      "variations": [
+        "Helly's speech about being a prisoner",
+        "Helly's public declaration",
+        "Helly's speech at the event"
+      ],
+      "confidence": "high",
+      "mention_count": 20
+    },
+    {
+      "id": 3,
+      "canonical_description": "Irving's investigation into Lumon",
+      "variations": [
+        "Irving's research in the trunk",
+        "Irving's notes on severed employees",
+        "Irving's map of Lumon employees"
+      ],
+      "confidence": "medium",
+      "mention_count": 15
+    },
+    {
+      "id": 4,
+      "canonical_description": "Cobel tackles Helly at the gala",
+      "variations": [
+        "Cobel tackles Helly",
+        "Cobel stops Helly's speech",
+        "Cobel's intervention at the gala"
+      ],
+      "confidence": "medium",
+      "mention_count": 10
+    },
+    {
+      "id": 5,
+      "canonical_description": "Dylan holds the switches during the emergency",
+      "variations": [
+        "Dylan struggles to hold the switches",
+        "Dylan's tense moment with the switches",
+        "Dylan's heroic effort with the switches"
+      ],
+      "confidence": "medium",
+      "mention_count": 12
+    }
+  ],
+  "theories": [
+    {
+      "category": "character_identity",
+      "canonical_claim": "Helly is a member of the Eagan family",
+      "consensus": "strong_support",
+      "confidence": "high",
+      "mention_count": 15,
+      "sample_phrasings": [
+        "Helly is an Eagan",
+        "She's definitely related to the Eagans",
+        "The Helly/Eagan connection is obvious"
+      ]
+    },
+    {
+      "category": "plot_prediction",
+      "canonical_claim": "Mark will return to Lumon to find Gemma",
+      "consensus": "strong_support",
+      "confidence": "high",
+      "mention_count": 20,
+      "sample_phrasings": [
+        "Mark has to go back for Gemma",
+        "Mark will return to Lumon",
+        "Mark's mission is to find Gemma"
+      ]
+    },
+    {
+      "category": "workplace_nature",
+      "canonical_claim": "Lumon is a cult-like organization",
+      "consensus": "moderate_support",
+      "confidence": "medium",
+      "mention_count": 12,
+      "sample_phrasings": [
+        "Lumon operates like a cult",
+        "The company has cult-like qualities",
+        "Lumon is a cult"
+      ]
+    },
+    {
+      "category": "conspiracy",
+      "canonical_claim": "The Eagans are using severance for immortality",
+      "consensus": "moderate_support",
+      "confidence": "medium",
+      "mention_count": 10,
+      "sample_phrasings": [
+        "Eagans are trying to achieve immortality",
+        "Severance is a method for eternal life",
+        "The Eagans want to live forever"
+      ]
+    }
+  ],
+  "metadata": {
+    "season": 1,
+    "episode": 9,
+    "episode_title": "Severance - 1x09 \"The We We Are\" - Post-Episode Discussion",
+    "comment_count": 9545,
+    "extraction_date": "2025-12-09T23:22:36.960001",
+    "model": "gpt-4o-mini",
+    "input_tokens": 73494,
+    "output_tokens": 1408,
+    "total_tokens": 74902,
+    "cost": 0.0118689
+  }
+}

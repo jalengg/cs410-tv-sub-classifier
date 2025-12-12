@@ -1,0 +1,278 @@
+{
+  "entities": [
+    {
+      "canonical_name": "Mark Scout",
+      "aliases": [
+        "Mark",
+        "Mark S.",
+        "MS",
+        "our boy mark"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 59
+    },
+    {
+      "canonical_name": "Helly R.",
+      "aliases": [
+        "Helly",
+        "Helly R.",
+        "Helena"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 37
+    },
+    {
+      "canonical_name": "Petey",
+      "aliases": [
+        "Peter Kilmer",
+        "Petey K."
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 25
+    },
+    {
+      "canonical_name": "Harmony Cobel",
+      "aliases": [
+        "Harmony",
+        "Cobel"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 22
+    },
+    {
+      "canonical_name": "Dylan",
+      "aliases": [
+        "Dylan",
+        "D."
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 18
+    },
+    {
+      "canonical_name": "Irving",
+      "aliases": [
+        "Irving",
+        "Irv"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 16
+    },
+    {
+      "canonical_name": "Natalie",
+      "aliases": [
+        "Natalie"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 10
+    },
+    {
+      "canonical_name": "Milchick",
+      "aliases": [
+        "Milchick",
+        "Mr. Milchick"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 15
+    },
+    {
+      "canonical_name": "Ricken",
+      "aliases": [
+        "Ricken"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 8
+    },
+    {
+      "canonical_name": "Kier Eagan",
+      "aliases": [
+        "Kier",
+        "Eagan"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 12
+    },
+    {
+      "canonical_name": "Baird Eagan",
+      "aliases": [
+        "Baird"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 5
+    },
+    {
+      "canonical_name": "Gerhardt Eagan",
+      "aliases": [
+        "Gerhardt"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 5
+    },
+    {
+      "canonical_name": "Jame Eagan",
+      "aliases": [
+        "Jame"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 5
+    },
+    {
+      "canonical_name": "Myrtle Eagan",
+      "aliases": [
+        "Myrtle"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 5
+    },
+    {
+      "canonical_name": "Ambrose Eagan",
+      "aliases": [
+        "Ambrose"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 5
+    },
+    {
+      "canonical_name": "Mrs. Selvig",
+      "aliases": [
+        "Selvig"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 8
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "canonical_description": "Helly's escape attempt through the broken window",
+      "variations": [
+        "Helly trying to pass the note through the window",
+        "Helly's escape attempt",
+        "Helly breaking the glass to get the note out"
+      ],
+      "confidence": "high",
+      "mention_count": 15
+    },
+    {
+      "id": 2,
+      "canonical_description": "Mark's interaction with Petey at the gas station",
+      "variations": [
+        "Mark seeing Petey at the gas station",
+        "The gas station scene with Mark and Petey",
+        "Mark's concern for Petey at the gas station"
+      ],
+      "confidence": "high",
+      "mention_count": 12
+    },
+    {
+      "id": 3,
+      "canonical_description": "The break room session where Helly reads the compunction statement",
+      "variations": [
+        "Helly in the break room",
+        "The compunction statement reading",
+        "The break room scene"
+      ],
+      "confidence": "high",
+      "mention_count": 20
+    },
+    {
+      "id": 4,
+      "canonical_description": "Mark's visit to the Perpetuity Wing",
+      "variations": [
+        "Mark in the Perpetuity Wing",
+        "The visit to the Perpetuity Wing",
+        "Mark's exploration of the Perpetuity Wing"
+      ],
+      "confidence": "high",
+      "mention_count": 10
+    },
+    {
+      "id": 5,
+      "canonical_description": "Milchick's onboarding of Helly",
+      "variations": [
+        "Milchick onboarding Helly",
+        "Helly's onboarding process",
+        "Milchick's introduction to Helly"
+      ],
+      "confidence": "medium",
+      "mention_count": 8
+    }
+  ],
+  "theories": [
+    {
+      "category": "character_identity",
+      "canonical_claim": "Helly is a member of the Eagan family",
+      "consensus": "strong_support",
+      "confidence": "high",
+      "mention_count": 15,
+      "sample_phrasings": [
+        "Helly is an Eagan",
+        "She's definitely related to the Eagans",
+        "The Helly/Eagan connection is obvious"
+      ]
+    },
+    {
+      "category": "plot_prediction",
+      "canonical_claim": "Mark's wife is not actually dead but severed",
+      "consensus": "moderate_support",
+      "confidence": "medium",
+      "mention_count": 10,
+      "sample_phrasings": [
+        "Mark's wife isn't really dead",
+        "What if Mark's wife is severed?",
+        "I think Mark's wife is alive somewhere"
+      ]
+    },
+    {
+      "category": "workplace_nature",
+      "canonical_claim": "The break room is a form of psychological torture",
+      "consensus": "strong_support",
+      "confidence": "high",
+      "mention_count": 12,
+      "sample_phrasings": [
+        "The break room is designed to break you",
+        "It's a form of psychological torture",
+        "The break room is a cult-like ritual"
+      ]
+    },
+    {
+      "category": "conspiracy",
+      "canonical_claim": "The board does not actually exist and is a facade",
+      "consensus": "moderate_support",
+      "confidence": "medium",
+      "mention_count": 8,
+      "sample_phrasings": [
+        "The board is just a facade",
+        "I don't think the board exists",
+        "The board is a single person"
+      ]
+    }
+  ],
+  "metadata": {
+    "season": 1,
+    "episode": 3,
+    "episode_title": "Severance - 1x03 \"In Perpetuity\" - Episode Discussion",
+    "comment_count": 1305,
+    "extraction_date": "2025-12-09T01:18:27.304228",
+    "model": "gpt-4o-mini",
+    "input_tokens": 59405,
+    "output_tokens": 1564,
+    "total_tokens": 60969,
+    "cost": 0.009849150000000001
+  }
+}

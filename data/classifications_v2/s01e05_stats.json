@@ -1,0 +1,400 @@
+{
+  "total_comments": 1024,
+  "total_cost": 0.25103115,
+  "canonical_entity_refs": [
+    [
+      "Ricken",
+      350
+    ],
+    [
+      "Mark Scout",
+      317
+    ],
+    [
+      "Helly R.",
+      161
+    ],
+    [
+      "Irving",
+      81
+    ],
+    [
+      "Cobel",
+      73
+    ],
+    [
+      "Burt",
+      49
+    ],
+    [
+      "Petey",
+      47
+    ],
+    [
+      "Dylan",
+      39
+    ],
+    [
+      "Ms. Casey",
+      35
+    ],
+    [
+      "Ms. Cobel",
+      26
+    ],
+    [
+      "Gabby",
+      26
+    ],
+    [
+      "Harmony Cobel",
+      26
+    ],
+    [
+      "Mr. Graner",
+      14
+    ],
+    [
+      "Graner",
+      13
+    ],
+    [
+      "Milchik",
+      4
+    ],
+    [
+      "Mr. Milchick",
+      2
+    ],
+    [
+      "Devon",
+      2
+    ],
+    [
+      "Milchick",
+      2
+    ],
+    [
+      "Milchek",
+      1
+    ],
+    [
+      "Dylan G.",
+      1
+    ],
+    [
+      "Irving G.",
+      1
+    ],
+    [
+      "Burt G.",
+      1
+    ],
+    [
+      "Mr. Milchek",
+      1
+    ],
+    [
+      "Mr. Milchik",
+      1
+    ],
+    [
+      "Mr. Milcheck",
+      1
+    ],
+    [
+      "Lumon",
+      1
+    ],
+    [
+      "Kier Eagan",
+      1
+    ]
+  ],
+  "new_entities": [
+    [
+      "gabby",
+      6
+    ],
+    [
+      "kier",
+      5
+    ],
+    [
+      "memantine",
+      2
+    ],
+    [
+      "goats",
+      2
+    ],
+    [
+      "casey",
+      2
+    ],
+    [
+      "goat man",
+      2
+    ],
+    [
+      "angelo arteta",
+      2
+    ],
+    [
+      "milchik",
+      2
+    ],
+    [
+      "carol d",
+      2
+    ],
+    [
+      "baby ai",
+      2
+    ],
+    [
+      "judd",
+      1
+    ],
+    [
+      "ketamine",
+      1
+    ],
+    [
+      "keir egan",
+      1
+    ],
+    [
+      "milchick",
+      1
+    ],
+    [
+      "doula mother",
+      1
+    ],
+    [
+      "corel",
+      1
+    ],
+    [
+      "the board",
+      1
+    ],
+    [
+      "nmda",
+      1
+    ],
+    [
+      "marvis altamont",
+      1
+    ],
+    [
+      "rolando mccrae",
+      1
+    ],
+    [
+      "darnell johnson",
+      1
+    ],
+    [
+      "lumon employee pregnancy news segment",
+      1
+    ],
+    [
+      "emotional numbers",
+      1
+    ],
+    [
+      "milchek",
+      1
+    ],
+    [
+      "carol d.",
+      1
+    ],
+    [
+      "jame eagan",
+      1
+    ],
+    [
+      "lumon",
+      1
+    ],
+    [
+      "tramell tillman",
+      1
+    ],
+    [
+      "mark's wife",
+      1
+    ],
+    [
+      "imogen",
+      1
+    ],
+    [
+      "jame",
+      1
+    ],
+    [
+      "christopher walken",
+      1
+    ],
+    [
+      "ricken",
+      1
+    ],
+    [
+      "ai chips",
+      1
+    ],
+    [
+      "chris",
+      1
+    ],
+    [
+      "the rich pregnant lady",
+      1
+    ],
+    [
+      "disembodied ai",
+      1
+    ],
+    [
+      "ditzy widow",
+      1
+    ],
+    [
+      "ms selvig",
+      1
+    ],
+    [
+      "black goo",
+      1
+    ],
+    [
+      "devlon",
+      1
+    ],
+    [
+      "the whole mind collective",
+      1
+    ],
+    [
+      "therapist",
+      1
+    ],
+    [
+      "christopher walken's character",
+      1
+    ],
+    [
+      "cell phone",
+      1
+    ],
+    [
+      "cia",
+      1
+    ],
+    [
+      "william",
+      1
+    ],
+    [
+      "chips implanted in kids",
+      1
+    ],
+    [
+      "john turturro",
+      1
+    ],
+    [
+      "devon",
+      1
+    ],
+    [
+      "megan mulally",
+      1
+    ],
+    [
+      "jane lynch",
+      1
+    ]
+  ],
+  "canonical_scene_refs": [
+    [
+      2,
+      96
+    ],
+    [
+      4,
+      47
+    ],
+    [
+      3,
+      45
+    ],
+    [
+      1,
+      40
+    ]
+  ],
+  "new_scenes_count": 37,
+  "canonical_theory_refs": [
+    [
+      3,
+      253
+    ],
+    [
+      1,
+      99
+    ],
+    [
+      2,
+      37
+    ]
+  ],
+  "new_theories_count": 283,
+  "top_sentiments": [
+    [
+      "confused",
+      660
+    ],
+    [
+      "impressed",
+      269
+    ],
+    [
+      "excited",
+      141
+    ],
+    [
+      "amused",
+      135
+    ],
+    [
+      "curious",
+      87
+    ],
+    [
+      "disappointed",
+      65
+    ],
+    [
+      "shocked",
+      52
+    ],
+    [
+      "sad",
+      45
+    ],
+    [
+      "angry",
+      45
+    ],
+    [
+      "scared",
+      45
+    ]
+  ]
+}

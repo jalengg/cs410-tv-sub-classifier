@@ -1,0 +1,25 @@
+theory_id,canonical_claim,category,consensus,total_mentions,episodes
+1,Mrs. Selvig is not severed and monitors Mark.,character_identity,strong_support,20,2
+2,Petey will reveal more about the severance process.,plot_prediction,moderate_support,15,2
+3,The black goo represents lost memories and trauma.,symbolism,strong_support,12,2
+4,The severance process is a corporate experiment.,workplace_nature,strong_support,18,2
+5,Helly is a member of the Eagan family,character_identity,strong_support,75,"3, 4, 5, 8, 9"
+6,Mark's wife is not actually dead but severed,plot_prediction,moderate_support,10,3
+7,The break room is a form of psychological torture,workplace_nature,strong_support,12,3
+8,The board does not actually exist and is a facade,conspiracy,moderate_support,8,3
+9,Helly's outtie is part of a resistance against Lumon,plot_prediction,moderate_support,10,4
+10,The severance procedure is a form of psychological control,workplace_nature,strong_support,12,4
+11,Lumon is conducting unethical experiments on employees,workplace_nature,strong_support,30,"4, 5"
+12,The goats symbolize the fate of severed employees,plot_prediction,moderate_support,12,5
+13,Cobel is a full-time severed version of herself.,character_identity,strong_support,20,6
+14,Dylan will remember his son and rebel against Lumon.,plot_prediction,strong_support,30,6
+15,Lumon is using severance for military applications.,conspiracy,moderate_support,15,6
+16,"Gemma is actually Ms. Casey, Mark's wife.",character_identity,strong_support,40,7
+17,Mark will discover Gemma's true identity soon.,plot_prediction,strong_support,25,7
+18,Lumon is a cult-like organization,workplace_nature,moderate_support,27,"7, 9"
+19,Cobel is manipulating events for her own agenda.,conspiracy,moderate_support,10,7
+20,Mark will wake up hugging Cobel at the gala,plot_prediction,strong_support,20,8
+21,The waffle party is a cover for a sexual ritual,workplace_nature,moderate_support,12,8
+22,Cobel is trying to prove reintegration is possible,conspiracy,moderate_support,10,8
+23,Mark will return to Lumon to find Gemma,plot_prediction,strong_support,20,9
+24,The Eagans are using severance for immortality,conspiracy,moderate_support,10,9

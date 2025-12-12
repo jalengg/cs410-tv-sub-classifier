@@ -1,0 +1,448 @@
+{
+  "total_comments": 1371,
+  "total_cost": 0.32435025,
+  "canonical_entity_refs": [
+    [
+      "Mark Scout",
+      365
+    ],
+    [
+      "Dylan George",
+      222
+    ],
+    [
+      "Cobel",
+      205
+    ],
+    [
+      "Milchick",
+      137
+    ],
+    [
+      "Helly Riggs",
+      90
+    ],
+    [
+      "Petey",
+      64
+    ],
+    [
+      "Charlotte Cobel",
+      62
+    ],
+    [
+      "Ricken",
+      57
+    ],
+    [
+      "Irving",
+      43
+    ],
+    [
+      "Senator Angelo Arteta",
+      38
+    ],
+    [
+      "Harmony Cobel",
+      18
+    ],
+    [
+      "Devon",
+      15
+    ],
+    [
+      "Burt",
+      11
+    ],
+    [
+      "Alexa",
+      8
+    ],
+    [
+      "Lumon",
+      4
+    ],
+    [
+      "Kier",
+      4
+    ],
+    [
+      "Tramell Tillman",
+      1
+    ],
+    [
+      "Mr. Milchick",
+      1
+    ],
+    [
+      "Casey",
+      1
+    ]
+  ],
+  "new_entities": [
+    [
+      "reghabi",
+      10
+    ],
+    [
+      "gemma",
+      5
+    ],
+    [
+      "graner",
+      4
+    ],
+    [
+      "kier",
+      3
+    ],
+    [
+      "senator angelo arteta",
+      3
+    ],
+    [
+      "senator angelo arteta's wife",
+      2
+    ],
+    [
+      "carol r",
+      2
+    ],
+    [
+      "senator's wife",
+      2
+    ],
+    [
+      "casey",
+      2
+    ],
+    [
+      "o&d",
+      2
+    ],
+    [
+      "lumon",
+      2
+    ],
+    [
+      "alexa",
+      2
+    ],
+    [
+      "lactation consultant",
+      2
+    ],
+    [
+      "sister",
+      1
+    ],
+    [
+      "devon",
+      1
+    ],
+    [
+      "kier pe",
+      1
+    ],
+    [
+      "mr. graner",
+      1
+    ],
+    [
+      "petey's severance undoer",
+      1
+    ],
+    [
+      "zach cherry",
+      1
+    ],
+    [
+      "clones",
+      1
+    ],
+    [
+      "reservoir journal",
+      1
+    ],
+    [
+      "kier/eagan clones",
+      1
+    ],
+    [
+      "pharmaceutical interventions",
+      1
+    ],
+    [
+      "unknown person in suit",
+      1
+    ],
+    [
+      "ms. casey",
+      1
+    ],
+    [
+      "june",
+      1
+    ],
+    [
+      "sea org",
+      1
+    ],
+    [
+      "macrodata refinement",
+      1
+    ],
+    [
+      "eagan",
+      1
+    ],
+    [
+      "ms casey",
+      1
+    ],
+    [
+      "pip eagon",
+      1
+    ],
+    [
+      "pregnant severed employee",
+      1
+    ],
+    [
+      "macro data refinement",
+      1
+    ],
+    [
+      "party of eagan",
+      1
+    ],
+    [
+      "pip's diner",
+      1
+    ],
+    [
+      "gabby",
+      1
+    ],
+    [
+      "grainer",
+      1
+    ],
+    [
+      "cobel's husband",
+      1
+    ],
+    [
+      "elevator device",
+      1
+    ],
+    [
+      "post apocalyptic world",
+      1
+    ],
+    [
+      "pip",
+      1
+    ],
+    [
+      "keir",
+      1
+    ],
+    [
+      "gerhardt's",
+      1
+    ],
+    [
+      "mdr",
+      1
+    ],
+    [
+      "gabby's kids",
+      1
+    ],
+    [
+      "babies and tempers",
+      1
+    ],
+    [
+      "children related to lumon",
+      1
+    ],
+    [
+      "angelo couple",
+      1
+    ],
+    [
+      "angelo",
+      1
+    ],
+    [
+      "lumen industries",
+      1
+    ],
+    [
+      "peggy",
+      1
+    ],
+    [
+      "breeding/cloning program",
+      1
+    ],
+    [
+      "deborah",
+      1
+    ],
+    [
+      "carol d",
+      1
+    ],
+    [
+      "the woman on the playground",
+      1
+    ],
+    [
+      "severance compliant clothing",
+      1
+    ],
+    [
+      "britt lower",
+      1
+    ],
+    [
+      "p____ eagan",
+      1
+    ],
+    [
+      "the rich birthing lady",
+      1
+    ],
+    [
+      "la leche league",
+      1
+    ],
+    [
+      "the you you are",
+      1
+    ],
+    [
+      "lumon subsidized housing",
+      1
+    ],
+    [
+      "william",
+      1
+    ],
+    [
+      "baby goats",
+      1
+    ],
+    [
+      "corbel",
+      1
+    ],
+    [
+      "pro-severance politician",
+      1
+    ],
+    [
+      "fertility clinic",
+      1
+    ],
+    [
+      "lumin",
+      1
+    ],
+    [
+      "the woman",
+      1
+    ],
+    [
+      "locket",
+      1
+    ],
+    [
+      "kierlife.com",
+      1
+    ],
+    [
+      "prince edward island",
+      1
+    ]
+  ],
+  "canonical_scene_refs": [
+    [
+      1,
+      115
+    ],
+    [
+      2,
+      111
+    ],
+    [
+      4,
+      49
+    ],
+    [
+      3,
+      37
+    ]
+  ],
+  "new_scenes_count": 107,
+  "canonical_theory_refs": [
+    [
+      1,
+      327
+    ],
+    [
+      2,
+      83
+    ],
+    [
+      3,
+      52
+    ]
+  ],
+  "new_theories_count": 354,
+  "top_sentiments": [
+    [
+      "confused",
+      974
+    ],
+    [
+      "impressed",
+      330
+    ],
+    [
+      "excited",
+      201
+    ],
+    [
+      "amused",
+      135
+    ],
+    [
+      "curious",
+      109
+    ],
+    [
+      "shocked",
+      95
+    ],
+    [
+      "disappointed",
+      73
+    ],
+    [
+      "annoyed",
+      46
+    ],
+    [
+      "sad",
+      46
+    ],
+    [
+      "angry",
+      46
+    ]
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "entities": [
+    {
+      "canonical_name": "Mark Scout",
+      "aliases": [
+        "Mark",
+        "Mark S.",
+        "MS",
+        "mark scout",
+        "our boy mark"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 59
+    },
+    {
+      "canonical_name": "Gemma",
+      "aliases": [
+        "Gemma Casey",
+        "Ms. Casey"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 30
+    },
+    {
+      "canonical_name": "Irving",
+      "aliases": [
+        "Irv",
+        "Irving G.",
+        "Irving's outie"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 45
+    },
+    {
+      "canonical_name": "Dylan",
+      "aliases": [
+        "Dylan G.",
+        "Dylaaaaan"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 35
+    },
+    {
+      "canonical_name": "Harmony Cobel",
+      "aliases": [
+        "Cobel",
+        "Ms. Selvig"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 40
+    },
+    {
+      "canonical_name": "Reghabi",
+      "aliases": [
+        "Regabhi",
+        "the surgeon"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 15
+    },
+    {
+      "canonical_name": "Graner",
+      "aliases": [
+        "Mr. Graner"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 20
+    },
+    {
+      "canonical_name": "Ricken",
+      "aliases": [
+        "Mark's brother-in-law"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 10
+    },
+    {
+      "canonical_name": "Alexa",
+      "aliases": [
+        "the doula"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 8
+    },
+    {
+      "canonical_name": "The Board",
+      "aliases": [
+        "the board members",
+        "Eagan family"
+      ],
+      "type": "organization",
+      "confidence": "high",
+      "mention_count": 25
+    },
+    {
+      "canonical_name": "Lumon",
+      "aliases": [
+        "Lumon Industries"
+      ],
+      "type": "organization",
+      "confidence": "high",
+      "mention_count": 50
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "canonical_description": "Dylan bites Milchick during the MDE",
+      "variations": [
+        "Dylan attacking Milchick",
+        "Dylan bites Milchick's arm",
+        "Dylan's freakout on Milchick"
+      ],
+      "confidence": "high",
+      "mention_count": 25
+    },
+    {
+      "id": 2,
+      "canonical_description": "Mark tapes together the photo of Gemma",
+      "variations": [
+        "Mark piecing together the photo",
+        "Mark taping up the picture",
+        "Mark's emotional moment with the photo"
+      ],
+      "confidence": "high",
+      "mention_count": 30
+    },
+    {
+      "id": 3,
+      "canonical_description": "Irving's confrontation with Milchick",
+      "variations": [
+        "Irving tells Milchick off",
+        "Irving's outburst at Milchick",
+        "Irving calls Milchick a smug motherfucker"
+      ],
+      "confidence": "high",
+      "mention_count": 20
+    },
+    {
+      "id": 4,
+      "canonical_description": "Graner is killed",
+      "variations": [
+        "Graner gets his head bashed in",
+        "Graner's death scene",
+        "Graner is murdered"
+      ],
+      "confidence": "high",
+      "mention_count": 15
+    },
+    {
+      "id": 5,
+      "canonical_description": "The Music Dance Experience is canceled",
+      "variations": [
+        "MDE is officially canceled",
+        "Milchick announces the MDE cancellation",
+        "The dance party is called off"
+      ],
+      "confidence": "high",
+      "mention_count": 18
+    }
+  ],
+  "theories": [
+    {
+      "category": "character_identity",
+      "canonical_claim": "Gemma is actually Ms. Casey, Mark's wife.",
+      "consensus": "strong_support",
+      "confidence": "high",
+      "mention_count": 40,
+      "sample_phrasings": [
+        "Ms. Casey is Mark's wife",
+        "Gemma is alive as Ms. Casey",
+        "The therapist is Gemma"
+      ]
+    },
+    {
+      "category": "plot_prediction",
+      "canonical_claim": "Mark will discover Gemma's true identity soon.",
+      "consensus": "strong_support",
+      "confidence": "high",
+      "mention_count": 25,
+      "sample_phrasings": [
+        "Mark will find out about Gemma",
+        "Mark's going to learn the truth",
+        "The reveal of Gemma is coming"
+      ]
+    },
+    {
+      "category": "workplace_nature",
+      "canonical_claim": "Lumon is a front for a cult-like organization.",
+      "consensus": "moderate_support",
+      "confidence": "medium",
+      "mention_count": 15,
+      "sample_phrasings": [
+        "Lumon operates like a cult",
+        "Lumon is a company town",
+        "Lumon is controlling its employees"
+      ]
+    },
+    {
+      "category": "conspiracy",
+      "canonical_claim": "Cobel is manipulating events for her own agenda.",
+      "consensus": "moderate_support",
+      "confidence": "medium",
+      "mention_count": 10,
+      "sample_phrasings": [
+        "Cobel has her own motives",
+        "Cobel is playing a long game",
+        "Cobel is not to be trusted"
+      ]
+    }
+  ],
+  "metadata": {
+    "season": 1,
+    "episode": 7,
+    "episode_title": "Severance - 1x07 \"Defiant Jazz\" - Episode Discussion",
+    "comment_count": 4693,
+    "extraction_date": "2025-12-09T23:21:33.474985",
+    "model": "gpt-4o-mini",
+    "input_tokens": 71904,
+    "output_tokens": 1315,
+    "total_tokens": 73219,
+    "cost": 0.0115746
+  }
+}

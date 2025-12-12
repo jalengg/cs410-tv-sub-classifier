@@ -1,0 +1,32 @@
+scene_id,major_moment_id,major_moment_name,canonical_description,episodes,mention_count
+1,1,Helly's struggle with Lumon,Helly's questioning about the numbers,2,10
+2,1,Helly's struggle with Lumon,Helly's escape attempt through the broken window,3,15
+3,1,Helly's struggle with Lumon,The break room session where Helly reads the compunction statement,3,20
+4,1,Helly's struggle with Lumon,Helly's escape attempt in the elevator,"4, 5",24
+5,1,Helly's struggle with Lumon,Helly's appearance at the gala,8,8
+6,1,Helly's struggle with Lumon,Helly's speech at the gala,9,20
+1,2,Mark's personal journey,Mark's interaction with Mrs. Selvig at home,2,15
+2,2,Mark's personal journey,Mark's interaction with Petey at the gas station,3,12
+3,2,Mark's personal journey,Mark visits the tree where his wife died,4,10
+4,2,Mark's personal journey,Mark reading Ricken's book,5,10
+5,2,Mark's personal journey,Mark's date with Alexa,6,15
+6,2,Mark's personal journey,Mark tapes together the photo of Gemma,7,30
+7,2,Mark's personal journey,Mark reveals Gemma is alive to Devon,9,25
+1,3,Petey's influence and aftermath,Petey's warning to Mark about Lumon,2,7
+2,3,Petey's influence and aftermath,Petey's funeral and the video,4,15
+1,4,Dylan's rebellion,Dylan wakes up in his closet with Milchick,6,25
+2,4,Dylan's rebellion,Dylan bites Milchick during the MDE,7,25
+3,4,Dylan's rebellion,Dylan activating the overtime contingency,8,12
+4,4,Dylan's rebellion,Dylan holds the switches during the emergency,9,12
+1,5,Irving's awakening,Irv's dozing off and seeing black goo,2,12
+2,5,Irving's awakening,Irving's confrontation with Milchick,7,20
+3,5,Irving's awakening,Irving painting the hallway to the testing floor,8,15
+4,5,Irving's awakening,Irving's investigation into Lumon,9,15
+1,6,Cobel's manipulation and downfall,Cobel's shrine in her house,6,20
+2,6,Cobel's manipulation and downfall,Cobel's emotional breakdown after being fired,8,10
+3,6,Cobel's manipulation and downfall,Cobel tackles Helly at the gala,9,10
+1,7,The mysterious Lumon corporation,Mark's visit to the Perpetuity Wing,3,10
+2,7,The mysterious Lumon corporation,The scene with the baby goats,5,15
+3,7,The mysterious Lumon corporation,The waffle party scene,8,20
+1,8,Key events at the birthing cabin,Mark's sister giving birth,5,8
+2,8,Key events at the birthing cabin,The scene at the birthing cabin,6,18

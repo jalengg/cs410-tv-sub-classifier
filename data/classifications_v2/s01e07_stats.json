@@ -1,0 +1,604 @@
+{
+  "total_comments": 2320,
+  "total_cost": 0.59970525,
+  "canonical_entity_refs": [
+    [
+      "Mark Scout",
+      1014
+    ],
+    [
+      "Harmony Cobel",
+      416
+    ],
+    [
+      "Gemma",
+      390
+    ],
+    [
+      "Irving",
+      195
+    ],
+    [
+      "Dylan",
+      189
+    ],
+    [
+      "Milchick",
+      104
+    ],
+    [
+      "Ricken",
+      93
+    ],
+    [
+      "Graner",
+      86
+    ],
+    [
+      "Helly",
+      46
+    ],
+    [
+      "Lumon",
+      43
+    ],
+    [
+      "Reghabi",
+      39
+    ],
+    [
+      "The Board",
+      36
+    ],
+    [
+      "Alexa",
+      32
+    ],
+    [
+      "Burt",
+      17
+    ],
+    [
+      "Helly R.",
+      11
+    ],
+    [
+      "Petey",
+      6
+    ],
+    [
+      "Ms. Casey",
+      5
+    ],
+    [
+      "Mr. Graner",
+      2
+    ],
+    [
+      "Natalie",
+      2
+    ],
+    [
+      "Eagan",
+      1
+    ],
+    [
+      "Patricia Arquette",
+      1
+    ],
+    [
+      "Mr. Milchick",
+      1
+    ],
+    [
+      "Adam Scott",
+      1
+    ],
+    [
+      "Zach Cherry",
+      1
+    ],
+    [
+      "The Music Dance Experience",
+      1
+    ],
+    [
+      "Helly R",
+      1
+    ]
+  ],
+  "new_entities": [
+    [
+      "burt",
+      32
+    ],
+    [
+      "helly",
+      11
+    ],
+    [
+      "devon",
+      7
+    ],
+    [
+      "ricken",
+      5
+    ],
+    [
+      "peggy",
+      5
+    ],
+    [
+      "felicia",
+      4
+    ],
+    [
+      "kier",
+      4
+    ],
+    [
+      "petey",
+      4
+    ],
+    [
+      "eagan family gala",
+      3
+    ],
+    [
+      "burt g",
+      3
+    ],
+    [
+      "natalie",
+      3
+    ],
+    [
+      "baby goats",
+      2
+    ],
+    [
+      "senator",
+      2
+    ],
+    [
+      "gemma",
+      2
+    ],
+    [
+      "warhol's wormhole",
+      2
+    ],
+    [
+      "hospital",
+      1
+    ],
+    [
+      "senators kids",
+      1
+    ],
+    [
+      "jeffrey wright",
+      1
+    ],
+    [
+      "burt g.",
+      1
+    ],
+    [
+      "jericho doll",
+      1
+    ],
+    [
+      "overtime contingency",
+      1
+    ],
+    [
+      "june",
+      1
+    ],
+    [
+      "chip",
+      1
+    ],
+    [
+      "kiernival",
+      1
+    ],
+    [
+      "walken",
+      1
+    ],
+    [
+      "severance approved work clothes",
+      1
+    ],
+    [
+      "john turturro",
+      1
+    ],
+    [
+      "senator with the messed up wife",
+      1
+    ],
+    [
+      "dylan",
+      1
+    ],
+    [
+      "legion",
+      1
+    ],
+    [
+      "devs",
+      1
+    ],
+    [
+      "lumon's cops",
+      1
+    ],
+    [
+      "tumwater file",
+      1
+    ],
+    [
+      "eminence",
+      1
+    ],
+    [
+      "goat department",
+      1
+    ],
+    [
+      "succession",
+      1
+    ],
+    [
+      "philip \u201cpip\u201d eagan",
+      1
+    ],
+    [
+      "cloning",
+      1
+    ],
+    [
+      "lumion research",
+      1
+    ],
+    [
+      "catatonic state",
+      1
+    ],
+    [
+      "7199 g oswald",
+      1
+    ],
+    [
+      "hellie",
+      1
+    ],
+    [
+      "the guy at the desk upstairs",
+      1
+    ],
+    [
+      "baby ruth",
+      1
+    ],
+    [
+      "eagan",
+      1
+    ],
+    [
+      "stigmata",
+      1
+    ],
+    [
+      "helena",
+      1
+    ],
+    [
+      "carol s.",
+      1
+    ],
+    [
+      "oburt",
+      1
+    ],
+    [
+      "dylan's partner",
+      1
+    ],
+    [
+      "clones",
+      1
+    ],
+    [
+      "true romance",
+      1
+    ],
+    [
+      "myrtle egan",
+      1
+    ],
+    [
+      "control/security room",
+      1
+    ],
+    [
+      "the scientist who performs reintegration",
+      1
+    ],
+    [
+      "charlotte cobel",
+      1
+    ],
+    [
+      "neuroscience consultant",
+      1
+    ],
+    [
+      "former lumon ceos/eagans",
+      1
+    ],
+    [
+      "therapist with the moustache",
+      1
+    ],
+    [
+      "salve company",
+      1
+    ],
+    [
+      "black oozy sludge",
+      1
+    ],
+    [
+      "peg",
+      1
+    ],
+    [
+      "senator's wife",
+      1
+    ],
+    [
+      "baby severance",
+      1
+    ],
+    [
+      "ben",
+      1
+    ],
+    [
+      "soviet spies",
+      1
+    ],
+    [
+      "annie",
+      1
+    ],
+    [
+      "moira",
+      1
+    ],
+    [
+      "human cloning",
+      1
+    ],
+    [
+      "lab grown clones",
+      1
+    ],
+    [
+      "sienna",
+      1
+    ],
+    [
+      "experimental hospital",
+      1
+    ],
+    [
+      "peter",
+      1
+    ],
+    [
+      "current ceo",
+      1
+    ],
+    [
+      "servant",
+      1
+    ],
+    [
+      "bert",
+      1
+    ],
+    [
+      "severance: the lexington letter",
+      1
+    ],
+    [
+      "the mysterious pregnancy retreat lady",
+      1
+    ],
+    [
+      "siri",
+      1
+    ],
+    [
+      "petey's daughter",
+      1
+    ],
+    [
+      "cl department",
+      1
+    ],
+    [
+      "respirator or medical machine",
+      1
+    ],
+    [
+      "myrtle eagan",
+      1
+    ],
+    [
+      "clark gable",
+      1
+    ],
+    [
+      "multiple bodies",
+      1
+    ],
+    [
+      "pregnant woman",
+      1
+    ],
+    [
+      "bill hader",
+      1
+    ],
+    [
+      "john hamm",
+      1
+    ],
+    [
+      "comatose patients",
+      1
+    ],
+    [
+      "o&d",
+      1
+    ],
+    [
+      "cloning experiments",
+      1
+    ],
+    [
+      "cobel's mom",
+      1
+    ],
+    [
+      "shakey jake",
+      1
+    ],
+    [
+      "joe mcphee",
+      1
+    ],
+    [
+      "perpetuity wing",
+      1
+    ],
+    [
+      "eagan\u2019s bedroom replica",
+      1
+    ],
+    [
+      "the kier chronicle",
+      1
+    ],
+    [
+      "cassey",
+      1
+    ],
+    [
+      "government infiltration",
+      1
+    ],
+    [
+      "melon",
+      1
+    ],
+    [
+      "the board from control",
+      1
+    ],
+    [
+      "severance tech",
+      1
+    ]
+  ],
+  "canonical_scene_refs": [
+    [
+      2,
+      231
+    ],
+    [
+      4,
+      59
+    ],
+    [
+      1,
+      58
+    ],
+    [
+      5,
+      50
+    ],
+    [
+      3,
+      30
+    ]
+  ],
+  "new_scenes_count": 160,
+  "canonical_theory_refs": [
+    [
+      1,
+      592
+    ],
+    [
+      3,
+      195
+    ],
+    [
+      2,
+      124
+    ],
+    [
+      4,
+      106
+    ]
+  ],
+  "new_theories_count": 626,
+  "top_sentiments": [
+    [
+      "confused",
+      1483
+    ],
+    [
+      "impressed",
+      553
+    ],
+    [
+      "excited",
+      444
+    ],
+    [
+      "curious",
+      264
+    ],
+    [
+      "sad",
+      224
+    ],
+    [
+      "shocked",
+      198
+    ],
+    [
+      "amused",
+      195
+    ],
+    [
+      "disappointed",
+      141
+    ],
+    [
+      "angry",
+      95
+    ],
+    [
+      "annoyed",
+      73
+    ]
+  ]
+}

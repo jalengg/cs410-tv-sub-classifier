@@ -1,0 +1,288 @@
+{
+  "total_comments": 996,
+  "total_cost": 0.25318275,
+  "canonical_entity_refs": [
+    [
+      "Mark Scout",
+      260
+    ],
+    [
+      "Helly R.",
+      253
+    ],
+    [
+      "Petey",
+      102
+    ],
+    [
+      "Irving",
+      91
+    ],
+    [
+      "Harmony Cobel",
+      82
+    ],
+    [
+      "Burt",
+      52
+    ],
+    [
+      "Kier Eagan",
+      38
+    ],
+    [
+      "Ricken",
+      37
+    ],
+    [
+      "Dylan",
+      34
+    ],
+    [
+      "Milchick",
+      18
+    ],
+    [
+      "Lumon",
+      6
+    ],
+    [
+      "Graner",
+      5
+    ],
+    [
+      "Felicia",
+      4
+    ],
+    [
+      "Milchik",
+      1
+    ],
+    [
+      "Millchick",
+      1
+    ],
+    [
+      "Devon",
+      1
+    ],
+    [
+      "Mr Graner",
+      1
+    ],
+    [
+      "Mr. Graner",
+      1
+    ],
+    [
+      "John Turturro",
+      1
+    ]
+  ],
+  "new_entities": [
+    [
+      "june",
+      7
+    ],
+    [
+      "milchick",
+      3
+    ],
+    [
+      "burt",
+      3
+    ],
+    [
+      "kier chronicle",
+      2
+    ],
+    [
+      "o&d department",
+      2
+    ],
+    [
+      "o&d",
+      2
+    ],
+    [
+      "gemma",
+      1
+    ],
+    [
+      "ai",
+      1
+    ],
+    [
+      "bust of a guy with a beard",
+      1
+    ],
+    [
+      "milchik",
+      1
+    ],
+    [
+      "unknown high stature character",
+      1
+    ],
+    [
+      "puppet",
+      1
+    ],
+    [
+      "o n d department",
+      1
+    ],
+    [
+      "shang-chi",
+      1
+    ],
+    [
+      "kier chronicles",
+      1
+    ],
+    [
+      "tony perkis",
+      1
+    ],
+    [
+      "lumon digilopper2000\u00a9",
+      1
+    ],
+    [
+      "ganz",
+      1
+    ],
+    [
+      "walken",
+      1
+    ],
+    [
+      "nina",
+      1
+    ],
+    [
+      "petey's daughter",
+      1
+    ],
+    [
+      "the underground undetected reintegration activists",
+      1
+    ],
+    [
+      "ambrose",
+      1
+    ],
+    [
+      "eagan's 4 tempers of the soul",
+      1
+    ],
+    [
+      "greta",
+      1
+    ],
+    [
+      "milcheck",
+      1
+    ],
+    [
+      "kissing kate barlow",
+      1
+    ],
+    [
+      "mdr department",
+      1
+    ],
+    [
+      "tony shalhoub",
+      1
+    ],
+    [
+      "tony black",
+      1
+    ],
+    [
+      "ian buckley",
+      1
+    ]
+  ],
+  "canonical_scene_refs": [
+    [
+      2,
+      83
+    ],
+    [
+      3,
+      59
+    ],
+    [
+      4,
+      56
+    ],
+    [
+      1,
+      43
+    ]
+  ],
+  "new_scenes_count": 72,
+  "canonical_theory_refs": [
+    [
+      3,
+      260
+    ],
+    [
+      2,
+      92
+    ],
+    [
+      4,
+      69
+    ],
+    [
+      1,
+      51
+    ]
+  ],
+  "new_theories_count": 302,
+  "top_sentiments": [
+    [
+      "confused",
+      683
+    ],
+    [
+      "impressed",
+      261
+    ],
+    [
+      "sad",
+      132
+    ],
+    [
+      "excited",
+      118
+    ],
+    [
+      "curious",
+      110
+    ],
+    [
+      "disappointed",
+      68
+    ],
+    [
+      "amused",
+      63
+    ],
+    [
+      "shocked",
+      61
+    ],
+    [
+      "angry",
+      54
+    ],
+    [
+      "love",
+      30
+    ]
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "total_comments": 719,
+  "total_cost": 0.1967697,
+  "canonical_entity_refs": [
+    [
+      "Mark Scout",
+      358
+    ],
+    [
+      "Helly R.",
+      115
+    ],
+    [
+      "Petey",
+      99
+    ],
+    [
+      "Harmony Cobel",
+      52
+    ],
+    [
+      "Milchick",
+      39
+    ],
+    [
+      "Irving",
+      35
+    ],
+    [
+      "Kier Eagan",
+      26
+    ],
+    [
+      "Mrs. Selvig",
+      21
+    ],
+    [
+      "Dylan",
+      20
+    ],
+    [
+      "Ricken",
+      17
+    ],
+    [
+      "Baird Eagan",
+      9
+    ],
+    [
+      "Natalie",
+      7
+    ],
+    [
+      "Jame Eagan",
+      3
+    ],
+    [
+      "Mr. Milchick",
+      2
+    ],
+    [
+      "Myrtle Eagan",
+      2
+    ],
+    [
+      "Lumon",
+      2
+    ],
+    [
+      "Gerhardt Eagan",
+      2
+    ],
+    [
+      "Eagan",
+      1
+    ],
+    [
+      "Ambrose Eagan",
+      1
+    ]
+  ],
+  "new_entities": [
+    [
+      "pip",
+      4
+    ],
+    [
+      "lumon",
+      1
+    ],
+    [
+      "obese guy",
+      1
+    ],
+    [
+      "gerhardt eagan",
+      1
+    ],
+    [
+      "white rabbit",
+      1
+    ],
+    [
+      "burt",
+      1
+    ],
+    [
+      "irving's fingernails",
+      1
+    ],
+    [
+      "carol d",
+      1
+    ],
+    [
+      "female eagan ceos",
+      1
+    ],
+    [
+      "helen",
+      1
+    ],
+    [
+      "ricken",
+      1
+    ],
+    [
+      "ganz",
+      1
+    ],
+    [
+      "kier",
+      1
+    ],
+    [
+      "petey",
+      1
+    ],
+    [
+      "dickon",
+      1
+    ]
+  ],
+  "canonical_scene_refs": [
+    [
+      2,
+      91
+    ],
+    [
+      3,
+      44
+    ],
+    [
+      1,
+      23
+    ],
+    [
+      4,
+      22
+    ],
+    [
+      5,
+      9
+    ]
+  ],
+  "new_scenes_count": 40,
+  "canonical_theory_refs": [
+    [
+      2,
+      119
+    ],
+    [
+      3,
+      82
+    ],
+    [
+      1,
+      81
+    ],
+    [
+      4,
+      37
+    ]
+  ],
+  "new_theories_count": 232,
+  "top_sentiments": [
+    [
+      "confused",
+      524
+    ],
+    [
+      "impressed",
+      228
+    ],
+    [
+      "curious",
+      105
+    ],
+    [
+      "excited",
+      86
+    ],
+    [
+      "sad",
+      39
+    ],
+    [
+      "amused",
+      39
+    ],
+    [
+      "shocked",
+      31
+    ],
+    [
+      "disappointed",
+      30
+    ],
+    [
+      "concerned",
+      21
+    ],
+    [
+      "scared",
+      21
+    ]
+  ]
+}

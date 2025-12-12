@@ -1,0 +1,193 @@
+{
+  "entities": [
+    {
+      "canonical_name": "Mark Scout",
+      "aliases": [
+        "Mark",
+        "Mark S.",
+        "MS",
+        "mark scout",
+        "our boy mark"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 59
+    },
+    {
+      "canonical_name": "Helly Riggs",
+      "aliases": [
+        "Helly",
+        "Helly R."
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 30
+    },
+    {
+      "canonical_name": "Dylan George",
+      "aliases": [
+        "Dylan",
+        "Dylan G."
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 40
+    },
+    {
+      "canonical_name": "Cobel",
+      "aliases": [
+        "Harmony Cobel",
+        "Ms. Selvig"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 45
+    },
+    {
+      "canonical_name": "Petey",
+      "aliases": [
+        "Petey",
+        "Petey's chip"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 20
+    },
+    {
+      "canonical_name": "Irving",
+      "aliases": [
+        "Irv",
+        "Burt"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 25
+    },
+    {
+      "canonical_name": "Senator Angelo Arteta",
+      "aliases": [
+        "Senator Arteta",
+        "the senator"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 15
+    },
+    {
+      "canonical_name": "Charlotte Cobel",
+      "aliases": [
+        "Charlotte",
+        "Cobel's mother"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 10
+    },
+    {
+      "canonical_name": "Ricken",
+      "aliases": [
+        "Ricken",
+        "Ricken's book"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 15
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "canonical_description": "Dylan wakes up in his closet with Milchick",
+      "variations": [
+        "Dylan's closet scene",
+        "Milchick interrogating Dylan at home",
+        "Dylan's awakening at home"
+      ],
+      "confidence": "high",
+      "mention_count": 25
+    },
+    {
+      "id": 2,
+      "canonical_description": "Cobel's shrine in her house",
+      "variations": [
+        "Cobel's altar scene",
+        "the shrine with Kier's items",
+        "Cobel's room decor"
+      ],
+      "confidence": "high",
+      "mention_count": 20
+    },
+    {
+      "id": 3,
+      "canonical_description": "Mark's date with Alexa",
+      "variations": [
+        "Mark and Alexa's dinner",
+        "the restaurant scene",
+        "Mark's date"
+      ],
+      "confidence": "high",
+      "mention_count": 15
+    },
+    {
+      "id": 4,
+      "canonical_description": "The scene at the birthing cabin",
+      "variations": [
+        "the birthing center scene",
+        "Devon at the cabin",
+        "the pregnant woman scene"
+      ],
+      "confidence": "high",
+      "mention_count": 18
+    }
+  ],
+  "theories": [
+    {
+      "category": "character_identity",
+      "canonical_claim": "Cobel is a full-time severed version of herself.",
+      "consensus": "strong_support",
+      "confidence": "high",
+      "mention_count": 20,
+      "sample_phrasings": [
+        "Cobel is permanently severed",
+        "Harmony is a full-time innie",
+        "Cobel's devotion suggests she's severed"
+      ]
+    },
+    {
+      "category": "plot_prediction",
+      "canonical_claim": "Dylan will remember his son and rebel against Lumon.",
+      "consensus": "strong_support",
+      "confidence": "high",
+      "mention_count": 30,
+      "sample_phrasings": [
+        "Dylan's innie will remember his son",
+        "Dylan will rebel after seeing his kid",
+        "Dylan's memory will change his actions"
+      ]
+    },
+    {
+      "category": "conspiracy",
+      "canonical_claim": "Lumon is using severance for military applications.",
+      "consensus": "moderate_support",
+      "confidence": "medium",
+      "mention_count": 15,
+      "sample_phrasings": [
+        "Severance is a military tool",
+        "Lumon is experimenting for military use",
+        "Severance could be used for soldiers"
+      ]
+    }
+  ],
+  "metadata": {
+    "season": 1,
+    "episode": 6,
+    "episode_title": "Severance - 1x06 \"Hide and Seek\" - Episode Discussion",
+    "comment_count": 2732,
+    "extraction_date": "2025-12-09T23:01:37.011704",
+    "model": "gpt-4o-mini",
+    "input_tokens": 108333,
+    "output_tokens": 1055,
+    "total_tokens": 109388,
+    "cost": 0.01688295
+  }
+}

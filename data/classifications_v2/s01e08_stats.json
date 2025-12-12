@@ -1,0 +1,636 @@
+{
+  "total_comments": 2503,
+  "total_cost": 0.63913995,
+  "canonical_entity_refs": [
+    [
+      "Mark Scout",
+      788
+    ],
+    [
+      "Cobel",
+      391
+    ],
+    [
+      "Helly R.",
+      318
+    ],
+    [
+      "Irving",
+      241
+    ],
+    [
+      "Ms. Casey",
+      196
+    ],
+    [
+      "Dylan",
+      173
+    ],
+    [
+      "Ricken Hale",
+      138
+    ],
+    [
+      "Kier Eagan",
+      87
+    ],
+    [
+      "Lumon",
+      58
+    ],
+    [
+      "Ricken",
+      57
+    ],
+    [
+      "Petey",
+      57
+    ],
+    [
+      "Harmony Cobel",
+      48
+    ],
+    [
+      "Graner",
+      37
+    ],
+    [
+      "Milchick",
+      24
+    ],
+    [
+      "Natalie",
+      23
+    ],
+    [
+      "Gemma",
+      9
+    ],
+    [
+      "Burt",
+      6
+    ],
+    [
+      "Milchik",
+      6
+    ],
+    [
+      "Milcheck",
+      3
+    ],
+    [
+      "Patricia Arquette",
+      2
+    ],
+    [
+      "Devon",
+      2
+    ],
+    [
+      "Ms. Selvig",
+      2
+    ],
+    [
+      "Ben Stiller",
+      2
+    ],
+    [
+      "Leonora Lake",
+      2
+    ],
+    [
+      "Dylan G.",
+      2
+    ],
+    [
+      "Alexa",
+      1
+    ],
+    [
+      "June",
+      1
+    ],
+    [
+      "Ms. Gemma",
+      1
+    ],
+    [
+      "Mr Milchick",
+      1
+    ],
+    [
+      "Milchek",
+      1
+    ],
+    [
+      "Seth",
+      1
+    ],
+    [
+      "Charlotte",
+      1
+    ]
+  ],
+  "new_entities": [
+    [
+      "charlotte",
+      12
+    ],
+    [
+      "burt",
+      10
+    ],
+    [
+      "radar",
+      8
+    ],
+    [
+      "charlotte cobel",
+      7
+    ],
+    [
+      "milchick",
+      6
+    ],
+    [
+      "kier eagan",
+      5
+    ],
+    [
+      "ms. casey",
+      4
+    ],
+    [
+      "open house",
+      4
+    ],
+    [
+      "ricken",
+      4
+    ],
+    [
+      "gemma",
+      4
+    ],
+    [
+      "devon",
+      4
+    ],
+    [
+      "seth",
+      3
+    ],
+    [
+      "beehive",
+      3
+    ],
+    [
+      "lumon",
+      3
+    ],
+    [
+      "elephant",
+      2
+    ],
+    [
+      "goldfish",
+      2
+    ],
+    [
+      "lullaby",
+      2
+    ],
+    [
+      "burt g",
+      2
+    ],
+    [
+      "wellness sessions",
+      2
+    ],
+    [
+      "milchik",
+      2
+    ],
+    [
+      "kier, pe",
+      2
+    ],
+    [
+      "cobel's mother",
+      2
+    ],
+    [
+      "myrtle",
+      2
+    ],
+    [
+      "hospital",
+      2
+    ],
+    [
+      "june",
+      1
+    ],
+    [
+      "petey",
+      1
+    ],
+    [
+      "ms. casey's mom",
+      1
+    ],
+    [
+      "milicheck",
+      1
+    ],
+    [
+      "branch transfer",
+      1
+    ],
+    [
+      "clean slate",
+      1
+    ],
+    [
+      "freeze frame",
+      1
+    ],
+    [
+      "glasgow",
+      1
+    ],
+    [
+      "overtime",
+      1
+    ],
+    [
+      "o&d",
+      1
+    ],
+    [
+      "laura",
+      1
+    ],
+    [
+      "bob",
+      1
+    ],
+    [
+      "larval thing",
+      1
+    ],
+    [
+      "goat guy",
+      1
+    ],
+    [
+      "medical bracelet",
+      1
+    ],
+    [
+      "animated flying 100% completion kier",
+      1
+    ],
+    [
+      "cobel mask",
+      1
+    ],
+    [
+      "mom",
+      1
+    ],
+    [
+      "egg bar",
+      1
+    ],
+    [
+      "harmony's mom",
+      1
+    ],
+    [
+      "cat o' nine tails",
+      1
+    ],
+    [
+      "kier head",
+      1
+    ],
+    [
+      "dancing four tempers",
+      1
+    ],
+    [
+      "amazon alexa",
+      1
+    ],
+    [
+      "former lumon ceo",
+      1
+    ],
+    [
+      "dead egans",
+      1
+    ],
+    [
+      "leondra lake",
+      1
+    ],
+    [
+      "cobel's mom",
+      1
+    ],
+    [
+      "eagan's four tempers",
+      1
+    ],
+    [
+      "disk partitions",
+      1
+    ],
+    [
+      "florence",
+      1
+    ],
+    [
+      "felicia",
+      1
+    ],
+    [
+      "kier's host body",
+      1
+    ],
+    [
+      "hospital bracelet",
+      1
+    ],
+    [
+      "taming the four humors",
+      1
+    ],
+    [
+      "lazlo",
+      1
+    ],
+    [
+      "tempers",
+      1
+    ],
+    [
+      "ambrose",
+      1
+    ],
+    [
+      "jame eagan",
+      1
+    ],
+    [
+      "bio fuel production and human recycling",
+      1
+    ],
+    [
+      "cryogenic freezing of heads",
+      1
+    ],
+    [
+      "alzheimer\u2019s",
+      1
+    ],
+    [
+      "peggy k",
+      1
+    ],
+    [
+      "child sized medical equipment",
+      1
+    ],
+    [
+      "seth milchick",
+      1
+    ],
+    [
+      "archer",
+      1
+    ],
+    [
+      "marcus aurelius",
+      1
+    ],
+    [
+      "kier",
+      1
+    ],
+    [
+      "surgeon lady",
+      1
+    ],
+    [
+      "lexington letter",
+      1
+    ],
+    [
+      "the gal who's innie got pregnant",
+      1
+    ],
+    [
+      "kier quest",
+      1
+    ],
+    [
+      "red dot",
+      1
+    ],
+    [
+      "queen bee",
+      1
+    ],
+    [
+      "rebek",
+      1
+    ],
+    [
+      "ben stiller",
+      1
+    ],
+    [
+      "mdr pouch",
+      1
+    ],
+    [
+      "department of defense",
+      1
+    ],
+    [
+      "eleanor",
+      1
+    ],
+    [
+      "goatlings",
+      1
+    ],
+    [
+      "lumon snacks",
+      1
+    ],
+    [
+      "the four tempers",
+      1
+    ],
+    [
+      "glasgow coma scale",
+      1
+    ],
+    [
+      "pregnant lady",
+      1
+    ],
+    [
+      "the back rooms",
+      1
+    ],
+    [
+      "implant chip",
+      1
+    ],
+    [
+      "russian connection",
+      1
+    ],
+    [
+      "tree of life",
+      1
+    ],
+    [
+      "mark's wife",
+      1
+    ],
+    [
+      "peti",
+      1
+    ],
+    [
+      "cat-of-nine-tails",
+      1
+    ],
+    [
+      "lumon founder",
+      1
+    ],
+    [
+      "the dancer in black lingerie",
+      1
+    ],
+    [
+      "the jester dancer",
+      1
+    ],
+    [
+      "the ceo in the perpetuity wing",
+      1
+    ],
+    [
+      "the goat/kid",
+      1
+    ],
+    [
+      "helena",
+      1
+    ],
+    [
+      "reghabi",
+      1
+    ],
+    [
+      "taming of the 4 tempers",
+      1
+    ],
+    [
+      "michnic",
+      1
+    ]
+  ],
+  "canonical_scene_refs": [
+    [
+      2,
+      246
+    ],
+    [
+      1,
+      123
+    ],
+    [
+      5,
+      120
+    ],
+    [
+      3,
+      79
+    ],
+    [
+      4,
+      78
+    ]
+  ],
+  "new_scenes_count": 138,
+  "canonical_theory_refs": [
+    [
+      1,
+      366
+    ],
+    [
+      4,
+      341
+    ],
+    [
+      3,
+      73
+    ],
+    [
+      2,
+      71
+    ]
+  ],
+  "new_theories_count": 748,
+  "top_sentiments": [
+    [
+      "confused",
+      1716
+    ],
+    [
+      "impressed",
+      489
+    ],
+    [
+      "excited",
+      379
+    ],
+    [
+      "amused",
+      270
+    ],
+    [
+      "sad",
+      228
+    ],
+    [
+      "curious",
+      222
+    ],
+    [
+      "disappointed",
+      189
+    ],
+    [
+      "shocked",
+      179
+    ],
+    [
+      "angry",
+      84
+    ],
+    [
+      "love",
+      73
+    ]
+  ]
+}

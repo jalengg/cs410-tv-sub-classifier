@@ -1,0 +1,1082 @@
+{
+  "entities": {
+    "merged_entities": [
+      {
+        "canonical_name": "Mark Scout",
+        "aliases": [
+          "Mark",
+          "Mark S.",
+          "MS",
+          "mark scout",
+          "our boy mark"
+        ],
+        "type": "character",
+        "source_episodes": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "canonical_name": "Helly R.",
+        "aliases": [
+          "Helly",
+          "Helly R.",
+          "Helly Eagan",
+          "Helena",
+          "outtie Helly",
+          "Helly Riggs"
+        ],
+        "type": "character",
+        "source_episodes": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          9
+        ]
+      },
+      {
+        "canonical_name": "Petey",
+        "aliases": [
+          "Petey",
+          "Petey D.",
+          "Petey D.",
+          "Petey the unsevered",
+          "Peter Kilmer",
+          "Petey K.",
+          "Petey's outtie",
+          "Petey's chip"
+        ],
+        "type": "character",
+        "source_episodes": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          9
+        ]
+      },
+      {
+        "canonical_name": "Irving",
+        "aliases": [
+          "Irv",
+          "Irving the sleeper",
+          "Irving G.",
+          "Irvie",
+          "Irving's outie"
+        ],
+        "type": "character",
+        "source_episodes": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "canonical_name": "Harmony Cobel",
+        "aliases": [
+          "Cobel",
+          "Ms. Cobel",
+          "Mrs. Selvig",
+          "Harmony"
+        ],
+        "type": "character",
+        "source_episodes": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "canonical_name": "Dylan",
+        "aliases": [
+          "Dylan",
+          "Dylan the refiner",
+          "D.",
+          "Dylan G.",
+          "Dylan's outtie",
+          "Dylaaaaan",
+          "Dylan Griffin"
+        ],
+        "type": "character",
+        "source_episodes": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "canonical_name": "Kier Eagan",
+        "aliases": [
+          "Kier",
+          "the founder",
+          "Eagan",
+          "the grandfather"
+        ],
+        "type": "character",
+        "source_episodes": [
+          2,
+          3,
+          4,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "canonical_name": "Lumon Industries",
+        "aliases": [
+          "Lumon",
+          "the company"
+        ],
+        "type": "organization",
+        "source_episodes": [
+          2,
+          7,
+          8
+        ]
+      },
+      {
+        "canonical_name": "Pips",
+        "aliases": [
+          "Pips",
+          "the restaurant"
+        ],
+        "type": "location",
+        "source_episodes": [
+          2
+        ]
+      },
+      {
+        "canonical_name": "Ricken",
+        "aliases": [
+          "Ricken",
+          "Ricken Hale",
+          "Rickon",
+          "Ricken's book",
+          "Mark's brother-in-law",
+          "Ricken's outie"
+        ],
+        "type": "character",
+        "source_episodes": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "canonical_name": "Graner",
+        "aliases": [
+          "Mr. Graner"
+        ],
+        "type": "character",
+        "source_episodes": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "canonical_name": "Burt",
+        "aliases": [
+          "Burt",
+          "Burt G.",
+          "Burt Goodman",
+          "Burt and Irv"
+        ],
+        "type": "character",
+        "source_episodes": [
+          4,
+          5,
+          7,
+          9
+        ]
+      },
+      {
+        "canonical_name": "Natalie",
+        "aliases": [
+          "Natalie",
+          "Natalie the security guard"
+        ],
+        "type": "character",
+        "source_episodes": [
+          3,
+          8,
+          9
+        ]
+      },
+      {
+        "canonical_name": "Ms. Casey",
+        "aliases": [
+          "Casey",
+          "Gemma",
+          "Gemma Casey"
+        ],
+        "type": "character",
+        "source_episodes": [
+          5,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "canonical_name": "Senator Angelo Arteta",
+        "aliases": [
+          "Senator Arteta",
+          "the senator"
+        ],
+        "type": "character",
+        "source_episodes": [
+          6
+        ]
+      },
+      {
+        "canonical_name": "Charlotte Cobel",
+        "aliases": [
+          "Charlotte",
+          "Cobel's mother"
+        ],
+        "type": "character",
+        "source_episodes": [
+          6
+        ]
+      },
+      {
+        "canonical_name": "Reghabi",
+        "aliases": [
+          "Regabhi",
+          "the surgeon"
+        ],
+        "type": "character",
+        "source_episodes": [
+          7
+        ]
+      },
+      {
+        "canonical_name": "Gabby",
+        "aliases": [
+          "the rich pregnant lady"
+        ],
+        "type": "character",
+        "source_episodes": [
+          5
+        ]
+      },
+      {
+        "canonical_name": "Leonora Lake",
+        "aliases": [
+          "Leonora"
+        ],
+        "type": "location",
+        "source_episodes": [
+          8
+        ]
+      }
+    ],
+    "entity_mapping": {
+      "Cobel": "Harmony Cobel",
+      "Ms. Cobel": "Harmony Cobel",
+      "Harmony Cobel": "Harmony Cobel",
+      "Helly R": "Helly R.",
+      "Helly": "Helly R.",
+      "Milchick": "Milchick",
+      "Dylan G.": "Dylan",
+      "Dylan Griffin": "Dylan",
+      "Gemma": "Ms. Casey",
+      "Petey K.": "Petey",
+      "Petey D.": "Petey",
+      "Petey the unsevered": "Petey",
+      "Petey's outtie": "Petey",
+      "Petey's chip": "Petey",
+      "Ricken Hale": "Ricken",
+      "Rickon": "Ricken",
+      "Ricken's book": "Ricken",
+      "Ricken's outie": "Ricken",
+      "Burt G.": "Burt",
+      "Burt and Irv": "Burt",
+      "Irvie": "Irving",
+      "Irving G.": "Irving",
+      "Irving's outie": "Irving",
+      "Dylan the refiner": "Dylan",
+      "Dylan's outtie": "Dylan",
+      "Dylaaaaan": "Dylan",
+      "Mark's brother-in-law": "Ricken",
+      "the company": "Lumon Industries",
+      "the restaurant": "Pips",
+      "the founder": "Kier Eagan",
+      "the grandfather": "Kier Eagan",
+      "the senator": "Senator Angelo Arteta",
+      "the surgeon": "Reghabi",
+      "the rich pregnant lady": "Gabby",
+      "Cobel's mother": "Charlotte Cobel",
+      "the board members": "The Board",
+      "Eagan family": "The Board"
+    }
+  },
+  "scenes": {
+    "major_moments": [
+      {
+        "id": 1,
+        "canonical_description": "Helly's struggle with Lumon",
+        "micro_moments": [
+          {
+            "id": 1,
+            "canonical_description": "Helly's questioning about the numbers",
+            "episodes": [
+              2
+            ],
+            "mention_count": 10
+          },
+          {
+            "id": 2,
+            "canonical_description": "Helly's escape attempt through the broken window",
+            "episodes": [
+              3
+            ],
+            "mention_count": 15
+          },
+          {
+            "id": 3,
+            "canonical_description": "The break room session where Helly reads the compunction statement",
+            "episodes": [
+              3
+            ],
+            "mention_count": 20
+          },
+          {
+            "id": 4,
+            "canonical_description": "Helly's escape attempt in the elevator",
+            "episodes": [
+              4,
+              5
+            ],
+            "mention_count": 24
+          },
+          {
+            "id": 5,
+            "canonical_description": "Helly's appearance at the gala",
+            "episodes": [
+              8
+            ],
+            "mention_count": 8
+          },
+          {
+            "id": 6,
+            "canonical_description": "Helly's speech at the gala",
+            "episodes": [
+              9
+            ],
+            "mention_count": 20
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "canonical_description": "Mark's personal journey",
+        "micro_moments": [
+          {
+            "id": 1,
+            "canonical_description": "Mark's interaction with Mrs. Selvig at home",
+            "episodes": [
+              2
+            ],
+            "mention_count": 15
+          },
+          {
+            "id": 2,
+            "canonical_description": "Mark's interaction with Petey at the gas station",
+            "episodes": [
+              3
+            ],
+            "mention_count": 12
+          },
+          {
+            "id": 3,
+            "canonical_description": "Mark visits the tree where his wife died",
+            "episodes": [
+              4
+            ],
+            "mention_count": 10
+          },
+          {
+            "id": 4,
+            "canonical_description": "Mark reading Ricken's book",
+            "episodes": [
+              5
+            ],
+            "mention_count": 10
+          },
+          {
+            "id": 5,
+            "canonical_description": "Mark's date with Alexa",
+            "episodes": [
+              6
+            ],
+            "mention_count": 15
+          },
+          {
+            "id": 6,
+            "canonical_description": "Mark tapes together the photo of Gemma",
+            "episodes": [
+              7
+            ],
+            "mention_count": 30
+          },
+          {
+            "id": 7,
+            "canonical_description": "Mark reveals Gemma is alive to Devon",
+            "episodes": [
+              9
+            ],
+            "mention_count": 25
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "canonical_description": "Petey's influence and aftermath",
+        "micro_moments": [
+          {
+            "id": 1,
+            "canonical_description": "Petey's warning to Mark about Lumon",
+            "episodes": [
+              2
+            ],
+            "mention_count": 7
+          },
+          {
+            "id": 2,
+            "canonical_description": "Petey's funeral and the video",
+            "episodes": [
+              4
+            ],
+            "mention_count": 15
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "canonical_description": "Dylan's rebellion",
+        "micro_moments": [
+          {
+            "id": 1,
+            "canonical_description": "Dylan wakes up in his closet with Milchick",
+            "episodes": [
+              6
+            ],
+            "mention_count": 25
+          },
+          {
+            "id": 2,
+            "canonical_description": "Dylan bites Milchick during the MDE",
+            "episodes": [
+              7
+            ],
+            "mention_count": 25
+          },
+          {
+            "id": 3,
+            "canonical_description": "Dylan activating the overtime contingency",
+            "episodes": [
+              8
+            ],
+            "mention_count": 12
+          },
+          {
+            "id": 4,
+            "canonical_description": "Dylan holds the switches during the emergency",
+            "episodes": [
+              9
+            ],
+            "mention_count": 12
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "canonical_description": "Irving's awakening",
+        "micro_moments": [
+          {
+            "id": 1,
+            "canonical_description": "Irv's dozing off and seeing black goo",
+            "episodes": [
+              2
+            ],
+            "mention_count": 12
+          },
+          {
+            "id": 2,
+            "canonical_description": "Irving's confrontation with Milchick",
+            "episodes": [
+              7
+            ],
+            "mention_count": 20
+          },
+          {
+            "id": 3,
+            "canonical_description": "Irving painting the hallway to the testing floor",
+            "episodes": [
+              8
+            ],
+            "mention_count": 15
+          },
+          {
+            "id": 4,
+            "canonical_description": "Irving's investigation into Lumon",
+            "episodes": [
+              9
+            ],
+            "mention_count": 15
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "canonical_description": "Cobel's manipulation and downfall",
+        "micro_moments": [
+          {
+            "id": 1,
+            "canonical_description": "Cobel's shrine in her house",
+            "episodes": [
+              6
+            ],
+            "mention_count": 20
+          },
+          {
+            "id": 2,
+            "canonical_description": "Cobel's emotional breakdown after being fired",
+            "episodes": [
+              8
+            ],
+            "mention_count": 10
+          },
+          {
+            "id": 3,
+            "canonical_description": "Cobel tackles Helly at the gala",
+            "episodes": [
+              9
+            ],
+            "mention_count": 10
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "canonical_description": "The mysterious Lumon corporation",
+        "micro_moments": [
+          {
+            "id": 1,
+            "canonical_description": "Mark's visit to the Perpetuity Wing",
+            "episodes": [
+              3
+            ],
+            "mention_count": 10
+          },
+          {
+            "id": 2,
+            "canonical_description": "The scene with the baby goats",
+            "episodes": [
+              5
+            ],
+            "mention_count": 15
+          },
+          {
+            "id": 3,
+            "canonical_description": "The waffle party scene",
+            "episodes": [
+              8
+            ],
+            "mention_count": 20
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "canonical_description": "Key events at the birthing cabin",
+        "micro_moments": [
+          {
+            "id": 1,
+            "canonical_description": "Mark's sister giving birth",
+            "episodes": [
+              5
+            ],
+            "mention_count": 8
+          },
+          {
+            "id": 2,
+            "canonical_description": "The scene at the birthing cabin",
+            "episodes": [
+              6
+            ],
+            "mention_count": 18
+          }
+        ]
+      }
+    ]
+  },
+  "theories": {
+    "merged_theories": [
+      {
+        "id": 1,
+        "canonical_claim": "Mrs. Selvig is not severed and monitors Mark.",
+        "category": "character_identity",
+        "consensus": "strong_support",
+        "total_mentions": 20,
+        "episodes": [
+          2
+        ],
+        "evolution": [
+          {
+            "episode": 2,
+            "claim": "Mrs. Selvig is not severed and monitors Mark."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "canonical_claim": "Petey will reveal more about the severance process.",
+        "category": "plot_prediction",
+        "consensus": "moderate_support",
+        "total_mentions": 15,
+        "episodes": [
+          2
+        ],
+        "evolution": [
+          {
+            "episode": 2,
+            "claim": "Petey will reveal more about the severance process."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "canonical_claim": "The black goo represents lost memories and trauma.",
+        "category": "symbolism",
+        "consensus": "strong_support",
+        "total_mentions": 12,
+        "episodes": [
+          2
+        ],
+        "evolution": [
+          {
+            "episode": 2,
+            "claim": "The black goo represents lost memories and trauma."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "canonical_claim": "The severance process is a corporate experiment.",
+        "category": "workplace_nature",
+        "consensus": "strong_support",
+        "total_mentions": 18,
+        "episodes": [
+          2
+        ],
+        "evolution": [
+          {
+            "episode": 2,
+            "claim": "The severance process is a corporate experiment."
+          }
+        ]
+      },
+      {
+        "canonical_claim": "Helly is a member of the Eagan family",
+        "category": "character_identity",
+        "consensus": "strong_support",
+        "total_mentions": 75,
+        "episodes": [
+          3,
+          4,
+          5,
+          8,
+          9
+        ],
+        "evolution": [
+          {
+            "episode": 3,
+            "claim": "initial strong speculation about Helly's connection to the Eagans."
+          },
+          {
+            "episode": 4,
+            "claim": "further hints and character interactions reinforce the theory."
+          },
+          {
+            "episode": 5,
+            "claim": "additional evidence solidifies the belief in her Eagan lineage."
+          },
+          {
+            "episode": 8,
+            "claim": "more context provided, making the connection clearer."
+          },
+          {
+            "episode": 9,
+            "claim": "the theory is strongly supported by character revelations."
+          }
+        ],
+        "id": 5
+      },
+      {
+        "id": 6,
+        "canonical_claim": "Mark's wife is not actually dead but severed",
+        "category": "plot_prediction",
+        "consensus": "moderate_support",
+        "total_mentions": 10,
+        "episodes": [
+          3
+        ],
+        "evolution": [
+          {
+            "episode": 3,
+            "claim": "Mark's wife is not actually dead but severed"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "canonical_claim": "The break room is a form of psychological torture",
+        "category": "workplace_nature",
+        "consensus": "strong_support",
+        "total_mentions": 12,
+        "episodes": [
+          3
+        ],
+        "evolution": [
+          {
+            "episode": 3,
+            "claim": "The break room is a form of psychological torture"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "canonical_claim": "The board does not actually exist and is a facade",
+        "category": "conspiracy",
+        "consensus": "moderate_support",
+        "total_mentions": 8,
+        "episodes": [
+          3
+        ],
+        "evolution": [
+          {
+            "episode": 3,
+            "claim": "The board does not actually exist and is a facade"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "canonical_claim": "Helly's outtie is part of a resistance against Lumon",
+        "category": "plot_prediction",
+        "consensus": "moderate_support",
+        "total_mentions": 10,
+        "episodes": [
+          4
+        ],
+        "evolution": [
+          {
+            "episode": 4,
+            "claim": "Helly's outtie is part of a resistance against Lumon"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "canonical_claim": "The severance procedure is a form of psychological control",
+        "category": "workplace_nature",
+        "consensus": "strong_support",
+        "total_mentions": 12,
+        "episodes": [
+          4
+        ],
+        "evolution": [
+          {
+            "episode": 4,
+            "claim": "The severance procedure is a form of psychological control"
+          }
+        ]
+      },
+      {
+        "canonical_claim": "Lumon is conducting unethical experiments on employees",
+        "category": "workplace_nature",
+        "consensus": "strong_support",
+        "total_mentions": 30,
+        "episodes": [
+          4,
+          5
+        ],
+        "evolution": [
+          {
+            "episode": 4,
+            "claim": "Lumon is using severed employees for experiments"
+          },
+          {
+            "episode": 5,
+            "claim": "Lumon is conducting unethical experiments on employees"
+          }
+        ],
+        "id": 11
+      },
+      {
+        "id": 12,
+        "canonical_claim": "The goats symbolize the fate of severed employees",
+        "category": "plot_prediction",
+        "consensus": "moderate_support",
+        "total_mentions": 12,
+        "episodes": [
+          5
+        ],
+        "evolution": [
+          {
+            "episode": 5,
+            "claim": "The goats symbolize the fate of severed employees"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "canonical_claim": "Cobel is a full-time severed version of herself.",
+        "category": "character_identity",
+        "consensus": "strong_support",
+        "total_mentions": 20,
+        "episodes": [
+          6
+        ],
+        "evolution": [
+          {
+            "episode": 6,
+            "claim": "Cobel is a full-time severed version of herself."
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "canonical_claim": "Dylan will remember his son and rebel against Lumon.",
+        "category": "plot_prediction",
+        "consensus": "strong_support",
+        "total_mentions": 30,
+        "episodes": [
+          6
+        ],
+        "evolution": [
+          {
+            "episode": 6,
+            "claim": "Dylan will remember his son and rebel against Lumon."
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "canonical_claim": "Lumon is using severance for military applications.",
+        "category": "conspiracy",
+        "consensus": "moderate_support",
+        "total_mentions": 15,
+        "episodes": [
+          6
+        ],
+        "evolution": [
+          {
+            "episode": 6,
+            "claim": "Lumon is using severance for military applications."
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "canonical_claim": "Gemma is actually Ms. Casey, Mark's wife.",
+        "category": "character_identity",
+        "consensus": "strong_support",
+        "total_mentions": 40,
+        "episodes": [
+          7
+        ],
+        "evolution": [
+          {
+            "episode": 7,
+            "claim": "Gemma is actually Ms. Casey, Mark's wife."
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "canonical_claim": "Mark will discover Gemma's true identity soon.",
+        "category": "plot_prediction",
+        "consensus": "strong_support",
+        "total_mentions": 25,
+        "episodes": [
+          7
+        ],
+        "evolution": [
+          {
+            "episode": 7,
+            "claim": "Mark will discover Gemma's true identity soon."
+          }
+        ]
+      },
+      {
+        "canonical_claim": "Lumon is a cult-like organization",
+        "category": "workplace_nature",
+        "consensus": "moderate_support",
+        "total_mentions": 27,
+        "episodes": [
+          7,
+          9
+        ],
+        "evolution": [
+          {
+            "episode": 7,
+            "claim": "Lumon operates like a cult"
+          },
+          {
+            "episode": 9,
+            "claim": "The company has cult-like qualities"
+          }
+        ],
+        "id": 18
+      },
+      {
+        "id": 19,
+        "canonical_claim": "Cobel is manipulating events for her own agenda.",
+        "category": "conspiracy",
+        "consensus": "moderate_support",
+        "total_mentions": 10,
+        "episodes": [
+          7
+        ],
+        "evolution": [
+          {
+            "episode": 7,
+            "claim": "Cobel is manipulating events for her own agenda."
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "canonical_claim": "Mark will wake up hugging Cobel at the gala",
+        "category": "plot_prediction",
+        "consensus": "strong_support",
+        "total_mentions": 20,
+        "episodes": [
+          8
+        ],
+        "evolution": [
+          {
+            "episode": 8,
+            "claim": "Mark will wake up hugging Cobel at the gala"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "canonical_claim": "The waffle party is a cover for a sexual ritual",
+        "category": "workplace_nature",
+        "consensus": "moderate_support",
+        "total_mentions": 12,
+        "episodes": [
+          8
+        ],
+        "evolution": [
+          {
+            "episode": 8,
+            "claim": "The waffle party is a cover for a sexual ritual"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "canonical_claim": "Cobel is trying to prove reintegration is possible",
+        "category": "conspiracy",
+        "consensus": "moderate_support",
+        "total_mentions": 10,
+        "episodes": [
+          8
+        ],
+        "evolution": [
+          {
+            "episode": 8,
+            "claim": "Cobel is trying to prove reintegration is possible"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "canonical_claim": "Mark will return to Lumon to find Gemma",
+        "category": "plot_prediction",
+        "consensus": "strong_support",
+        "total_mentions": 20,
+        "episodes": [
+          9
+        ],
+        "evolution": [
+          {
+            "episode": 9,
+            "claim": "Mark will return to Lumon to find Gemma"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "canonical_claim": "The Eagans are using severance for immortality",
+        "category": "conspiracy",
+        "consensus": "moderate_support",
+        "total_mentions": 10,
+        "episodes": [
+          9
+        ],
+        "evolution": [
+          {
+            "episode": 9,
+            "claim": "The Eagans are using severance for immortality"
+          }
+        ]
+      }
+    ],
+    "original_count": 30,
+    "merged_count": 24
+  },
+  "metadata": {
+    "source_episodes": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "merge_date": "1765435784.3907168"
+  }
+}

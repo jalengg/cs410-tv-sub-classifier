@@ -1,0 +1,952 @@
+{
+  "total_comments": 4831,
+  "total_cost": 1.26547635,
+  "canonical_entity_refs": [
+    [
+      "Mark Scout",
+      1745
+    ],
+    [
+      "Helly R",
+      772
+    ],
+    [
+      "Irving",
+      492
+    ],
+    [
+      "Cobel",
+      473
+    ],
+    [
+      "Ricken",
+      428
+    ],
+    [
+      "Dylan",
+      394
+    ],
+    [
+      "Gemma",
+      336
+    ],
+    [
+      "Kier Eagan",
+      200
+    ],
+    [
+      "Burt",
+      172
+    ],
+    [
+      "Devon",
+      107
+    ],
+    [
+      "Petey",
+      78
+    ],
+    [
+      "Ms. Selvig",
+      67
+    ],
+    [
+      "Natalie",
+      40
+    ],
+    [
+      "Ms. Cobel",
+      34
+    ],
+    [
+      "Milchick",
+      21
+    ],
+    [
+      "Helena Eagan",
+      7
+    ],
+    [
+      "Harmony Cobel",
+      5
+    ],
+    [
+      "Dylan Griffin",
+      4
+    ],
+    [
+      "Mr. Milchick",
+      4
+    ],
+    [
+      "Ms. Casey",
+      4
+    ],
+    [
+      "Lumon",
+      3
+    ],
+    [
+      "Eleanor",
+      2
+    ],
+    [
+      "Milchik",
+      2
+    ],
+    [
+      "Grainer",
+      2
+    ],
+    [
+      "Milcheck",
+      2
+    ],
+    [
+      "Milchek",
+      2
+    ],
+    [
+      "Burt Goodman",
+      1
+    ],
+    [
+      "Ben Stiller",
+      1
+    ],
+    [
+      "Dan Erickson",
+      1
+    ],
+    [
+      "Jame Eagan",
+      1
+    ],
+    [
+      "Angelo",
+      1
+    ],
+    [
+      "Gemma Casey",
+      1
+    ],
+    [
+      "Seth Milchick",
+      1
+    ],
+    [
+      "Mr. Graner",
+      1
+    ],
+    [
+      "Mr. Milchik",
+      1
+    ]
+  ],
+  "new_entities": [
+    [
+      "milchick",
+      24
+    ],
+    [
+      "devon",
+      14
+    ],
+    [
+      "senator's wife",
+      9
+    ],
+    [
+      "radar",
+      7
+    ],
+    [
+      "kier",
+      7
+    ],
+    [
+      "eleanor",
+      6
+    ],
+    [
+      "ricken",
+      6
+    ],
+    [
+      "goats",
+      6
+    ],
+    [
+      "charlotte",
+      6
+    ],
+    [
+      "rebeck",
+      5
+    ],
+    [
+      "milcheck",
+      5
+    ],
+    [
+      "charlotte cobel",
+      5
+    ],
+    [
+      "graner",
+      5
+    ],
+    [
+      "jame eagan",
+      4
+    ],
+    [
+      "beehive",
+      4
+    ],
+    [
+      "burt",
+      3
+    ],
+    [
+      "rebek",
+      3
+    ],
+    [
+      "riggs",
+      3
+    ],
+    [
+      "milichick",
+      2
+    ],
+    [
+      "the board",
+      2
+    ],
+    [
+      "rebec",
+      2
+    ],
+    [
+      "gabby",
+      2
+    ],
+    [
+      "dylan george",
+      2
+    ],
+    [
+      "regabhi",
+      2
+    ],
+    [
+      "dancers",
+      2
+    ],
+    [
+      "patton",
+      2
+    ],
+    [
+      "senator",
+      2
+    ],
+    [
+      "macrodata refinement",
+      2
+    ],
+    [
+      "michael chernus",
+      2
+    ],
+    [
+      "seth milcheck",
+      2
+    ],
+    [
+      "the baby",
+      1
+    ],
+    [
+      "macro data refinement",
+      1
+    ],
+    [
+      "jelly's dad",
+      1
+    ],
+    [
+      "kier map",
+      1
+    ],
+    [
+      "kier bank",
+      1
+    ],
+    [
+      "four tempers models",
+      1
+    ],
+    [
+      "reghabi",
+      1
+    ],
+    [
+      "mdr",
+      1
+    ],
+    [
+      "the goats",
+      1
+    ],
+    [
+      "the printed cards",
+      1
+    ],
+    [
+      "the code scanner",
+      1
+    ],
+    [
+      "the testing floor",
+      1
+    ],
+    [
+      "the black hallway",
+      1
+    ],
+    [
+      "the map",
+      1
+    ],
+    [
+      "the crown",
+      1
+    ],
+    [
+      "pete's chip",
+      1
+    ],
+    [
+      "the watering cans",
+      1
+    ],
+    [
+      "lumon police",
+      1
+    ],
+    [
+      "kier, pe",
+      1
+    ],
+    [
+      "gemma",
+      1
+    ],
+    [
+      "kier eagan's territory",
+      1
+    ],
+    [
+      "cloning company",
+      1
+    ],
+    [
+      "zach cherry",
+      1
+    ],
+    [
+      "milkchick",
+      1
+    ],
+    [
+      "lumon invoices",
+      1
+    ],
+    [
+      "the revolving",
+      1
+    ],
+    [
+      "ben stiller",
+      1
+    ],
+    [
+      "lumon industries site",
+      1
+    ],
+    [
+      "the lady who mentioned her 3 kids",
+      1
+    ],
+    [
+      "psionic abilities",
+      1
+    ],
+    [
+      "peggy",
+      1
+    ],
+    [
+      "nanny and surrogate",
+      1
+    ],
+    [
+      "petey's daughter",
+      1
+    ],
+    [
+      "pregnant lady from the birthing center",
+      1
+    ],
+    [
+      "her husband at the gala",
+      1
+    ],
+    [
+      "unused office space",
+      1
+    ],
+    [
+      "dan erickson",
+      1
+    ],
+    [
+      "papa eagan",
+      1
+    ],
+    [
+      "remedium homiinibus",
+      1
+    ],
+    [
+      "larva",
+      1
+    ],
+    [
+      "devon f",
+      1
+    ],
+    [
+      "petey",
+      1
+    ],
+    [
+      "plano, texas",
+      1
+    ],
+    [
+      "guard on the severed floor",
+      1
+    ],
+    [
+      "crystal people",
+      1
+    ],
+    [
+      "providence",
+      1
+    ],
+    [
+      "melchick",
+      1
+    ],
+    [
+      "keir eagan",
+      1
+    ],
+    [
+      "disney",
+      1
+    ],
+    [
+      "deathsantis",
+      1
+    ],
+    [
+      "mr. milchick",
+      1
+    ],
+    [
+      "dumb severed people",
+      1
+    ],
+    [
+      "milchek",
+      1
+    ],
+    [
+      "baby goat experiment",
+      1
+    ],
+    [
+      "weird waffle party sex/reproduction ritual",
+      1
+    ],
+    [
+      "chip maker/testing facility",
+      1
+    ],
+    [
+      "simulated town",
+      1
+    ],
+    [
+      "gabriela",
+      1
+    ],
+    [
+      "escape at dannemora",
+      1
+    ],
+    [
+      "patricia arquette",
+      1
+    ],
+    [
+      "altered carbon",
+      1
+    ],
+    [
+      "alexa",
+      1
+    ],
+    [
+      "remedium hominiquis",
+      1
+    ],
+    [
+      "pregnant lady-innie",
+      1
+    ],
+    [
+      "shrine",
+      1
+    ],
+    [
+      "bailiff",
+      1
+    ],
+    [
+      "baby goat",
+      1
+    ],
+    [
+      "hamburger waiter",
+      1
+    ],
+    [
+      "june",
+      1
+    ],
+    [
+      "the nanny",
+      1
+    ],
+    [
+      "severance chip",
+      1
+    ],
+    [
+      "gabriela/gabby",
+      1
+    ],
+    [
+      "lumon book",
+      1
+    ],
+    [
+      "johnson and johnson",
+      1
+    ],
+    [
+      "log lady",
+      1
+    ],
+    [
+      "baliff",
+      1
+    ],
+    [
+      "helly's outie friend",
+      1
+    ],
+    [
+      "lexington letter woman",
+      1
+    ],
+    [
+      "the other mother",
+      1
+    ],
+    [
+      "kellogg",
+      1
+    ],
+    [
+      "helena",
+      1
+    ],
+    [
+      "the brain",
+      1
+    ],
+    [
+      "angelo arteto",
+      1
+    ],
+    [
+      "cobel",
+      1
+    ],
+    [
+      "helly's father",
+      1
+    ],
+    [
+      "dan eagan",
+      1
+    ],
+    [
+      "maeve",
+      1
+    ],
+    [
+      "lady with 3 kids",
+      1
+    ],
+    [
+      "town of kier",
+      1
+    ],
+    [
+      "severed mom",
+      1
+    ],
+    [
+      "gemma clone",
+      1
+    ],
+    [
+      "peggy k.",
+      1
+    ],
+    [
+      "topeka star",
+      1
+    ],
+    [
+      "bird head sore lady",
+      1
+    ],
+    [
+      "creepydad",
+      1
+    ],
+    [
+      "artificial human bodies",
+      1
+    ],
+    [
+      "doctor",
+      1
+    ],
+    [
+      "temper",
+      1
+    ],
+    [
+      "dan",
+      1
+    ],
+    [
+      "golden retriever",
+      1
+    ],
+    [
+      "chekhov's paperweight",
+      1
+    ],
+    [
+      "possessor",
+      1
+    ],
+    [
+      "lumon",
+      1
+    ],
+    [
+      "kieran egan",
+      1
+    ],
+    [
+      "former severance doctor",
+      1
+    ],
+    [
+      "testing floor",
+      1
+    ],
+    [
+      "pe",
+      1
+    ],
+    [
+      "daughter in a coma or vegetative state",
+      1
+    ],
+    [
+      "electric cool aid",
+      1
+    ],
+    [
+      "goat caretaker",
+      1
+    ],
+    [
+      "breathing tube",
+      1
+    ],
+    [
+      "cloned baby goats",
+      1
+    ],
+    [
+      "motherboard",
+      1
+    ],
+    [
+      "ai based on kier",
+      1
+    ],
+    [
+      "protestors",
+      1
+    ],
+    [
+      "politician",
+      1
+    ],
+    [
+      "mother of 3",
+      1
+    ],
+    [
+      "apple",
+      1
+    ],
+    [
+      "vostok",
+      1
+    ],
+    [
+      "counterpart",
+      1
+    ],
+    [
+      "old kier",
+      1
+    ],
+    [
+      "cobel's daughter",
+      1
+    ],
+    [
+      "milchik",
+      1
+    ],
+    [
+      "christopher walken",
+      1
+    ],
+    [
+      "david arquette",
+      1
+    ],
+    [
+      "john turturro",
+      1
+    ],
+    [
+      "dichen lachman",
+      1
+    ],
+    [
+      "ganz",
+      1
+    ],
+    [
+      "man",
+      1
+    ],
+    [
+      "robot version of herself",
+      1
+    ],
+    [
+      "phillip 'pip' eagan",
+      1
+    ],
+    [
+      "john gemberling",
+      1
+    ],
+    [
+      "don gaetz",
+      1
+    ],
+    [
+      "rick scott",
+      1
+    ],
+    [
+      "helly's sister",
+      1
+    ],
+    [
+      "cloning",
+      1
+    ],
+    [
+      "ogabby",
+      1
+    ],
+    [
+      "queen",
+      1
+    ],
+    [
+      "rickenism",
+      1
+    ],
+    [
+      "mr milchek",
+      1
+    ],
+    [
+      "shelly",
+      1
+    ],
+    [
+      "walken",
+      1
+    ],
+    [
+      "turturro",
+      1
+    ],
+    [
+      "arquette",
+      1
+    ],
+    [
+      "ivanka",
+      1
+    ],
+    [
+      "nova",
+      1
+    ],
+    [
+      "the perimeter",
+      1
+    ],
+    [
+      "natalie",
+      1
+    ],
+    [
+      "don't look up ceo",
+      1
+    ],
+    [
+      "peg",
+      1
+    ]
+  ],
+  "canonical_scene_refs": [
+    [
+      2,
+      667
+    ],
+    [
+      1,
+      263
+    ],
+    [
+      5,
+      136
+    ],
+    [
+      4,
+      103
+    ],
+    [
+      3,
+      57
+    ]
+  ],
+  "new_scenes_count": 283,
+  "canonical_theory_refs": [
+    [
+      1,
+      563
+    ],
+    [
+      3,
+      562
+    ],
+    [
+      2,
+      335
+    ],
+    [
+      4,
+      153
+    ]
+  ],
+  "new_theories_count": 1108,
+  "top_sentiments": [
+    [
+      "confused",
+      2858
+    ],
+    [
+      "impressed",
+      1459
+    ],
+    [
+      "excited",
+      858
+    ],
+    [
+      "disappointed",
+      538
+    ],
+    [
+      "amused",
+      428
+    ],
+    [
+      "shocked",
+      407
+    ],
+    [
+      "curious",
+      390
+    ],
+    [
+      "sad",
+      281
+    ],
+    [
+      "angry",
+      280
+    ],
+    [
+      "annoyed",
+      245
+    ]
+  ]
+}

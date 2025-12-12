@@ -1,0 +1,248 @@
+{
+  "entities": [
+    {
+      "canonical_name": "Mark Scout",
+      "aliases": [
+        "Mark",
+        "Mark S.",
+        "MS",
+        "our boy mark"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 59
+    },
+    {
+      "canonical_name": "Irving",
+      "aliases": [
+        "Irv",
+        "Irving's outie"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 38
+    },
+    {
+      "canonical_name": "Helly R.",
+      "aliases": [
+        "Helly",
+        "Helly Riggs"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 30
+    },
+    {
+      "canonical_name": "Cobel",
+      "aliases": [
+        "Harmony Cobel",
+        "Ms. Cobel",
+        "Cobel/Gemma"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 25
+    },
+    {
+      "canonical_name": "Dylan",
+      "aliases": [
+        "Dylan G."
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 22
+    },
+    {
+      "canonical_name": "Ms. Casey",
+      "aliases": [
+        "Gemma",
+        "Ms. Selvig"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 20
+    },
+    {
+      "canonical_name": "Ricken",
+      "aliases": [
+        "Ricken Hale"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 15
+    },
+    {
+      "canonical_name": "Kier Eagan",
+      "aliases": [
+        "Kier"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 10
+    },
+    {
+      "canonical_name": "Graner",
+      "aliases": [
+        "Graner"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 8
+    },
+    {
+      "canonical_name": "Natalie",
+      "aliases": [
+        "Natalie"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 7
+    },
+    {
+      "canonical_name": "Petey",
+      "aliases": [
+        "Petey"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 6
+    },
+    {
+      "canonical_name": "Leonora Lake",
+      "aliases": [
+        "Leonora"
+      ],
+      "type": "location",
+      "confidence": "high",
+      "mention_count": 5
+    },
+    {
+      "canonical_name": "Lumon",
+      "aliases": [
+        "Lumon Industries"
+      ],
+      "type": "organization",
+      "confidence": "high",
+      "mention_count": 40
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "canonical_description": "Irving painting the hallway to the testing floor",
+      "variations": [
+        "Irving's painting scene",
+        "Irving painting the black goo hallway",
+        "Irving's art reveal"
+      ],
+      "confidence": "high",
+      "mention_count": 15
+    },
+    {
+      "id": 2,
+      "canonical_description": "Dylan activating the overtime contingency",
+      "variations": [
+        "Dylan flipping the switches",
+        "Dylan's overtime moment",
+        "Dylan's switch scene"
+      ],
+      "confidence": "high",
+      "mention_count": 12
+    },
+    {
+      "id": 3,
+      "canonical_description": "Cobel's emotional breakdown after being fired",
+      "variations": [
+        "Cobel crying in the car",
+        "Cobel's breakdown scene",
+        "Cobel's reaction to being fired"
+      ],
+      "confidence": "high",
+      "mention_count": 10
+    },
+    {
+      "id": 4,
+      "canonical_description": "Helly's appearance at the gala",
+      "variations": [
+        "Helly at the Eagan gala",
+        "Helly's gala moment",
+        "Helly dressed up at the party"
+      ],
+      "confidence": "high",
+      "mention_count": 8
+    },
+    {
+      "id": 5,
+      "canonical_description": "The waffle party scene",
+      "variations": [
+        "Dylan's waffle party",
+        "The weird waffle party",
+        "Waffle party reveal"
+      ],
+      "confidence": "high",
+      "mention_count": 20
+    }
+  ],
+  "theories": [
+    {
+      "category": "character_identity",
+      "canonical_claim": "Helly is a member of the Eagan family",
+      "consensus": "strong_support",
+      "confidence": "high",
+      "mention_count": 15,
+      "sample_phrasings": [
+        "Helly is an Eagan",
+        "She's definitely related to the Eagans",
+        "The Helly/Eagan connection is obvious"
+      ]
+    },
+    {
+      "category": "plot_prediction",
+      "canonical_claim": "Mark will wake up hugging Cobel at the gala",
+      "consensus": "strong_support",
+      "confidence": "high",
+      "mention_count": 20,
+      "sample_phrasings": [
+        "Mark is going to wake up hugging Cobel",
+        "Mark will see Cobel at the gala",
+        "Mark's innie will be confused by Cobel"
+      ]
+    },
+    {
+      "category": "workplace_nature",
+      "canonical_claim": "The waffle party is a cover for a sexual ritual",
+      "consensus": "moderate_support",
+      "confidence": "medium",
+      "mention_count": 12,
+      "sample_phrasings": [
+        "Waffle party is a euphemism for something else",
+        "The waffle party is creepy",
+        "Waffle party has sexual undertones"
+      ]
+    },
+    {
+      "category": "conspiracy",
+      "canonical_claim": "Cobel is trying to prove reintegration is possible",
+      "consensus": "moderate_support",
+      "confidence": "medium",
+      "mention_count": 10,
+      "sample_phrasings": [
+        "Cobel wants to show reintegration can happen",
+        "Cobel is working on reintegration",
+        "Cobel's motives are tied to reintegration"
+      ]
+    }
+  ],
+  "metadata": {
+    "season": 1,
+    "episode": 8,
+    "episode_title": "Severance - 1x08 \"What's for Dinner?\" - Episode Discussion",
+    "comment_count": 5535,
+    "extraction_date": "2025-12-09T23:21:40.485364",
+    "model": "gpt-4o-mini",
+    "input_tokens": 76595,
+    "output_tokens": 1391,
+    "total_tokens": 77986,
+    "cost": 0.012323849999999999
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "total_comments": 248,
+  "total_cost": 0.06692985,
+  "canonical_entity_refs": [
+    [
+      "Mark Scout",
+      141
+    ],
+    [
+      "Helly R.",
+      32
+    ],
+    [
+      "Petey",
+      26
+    ],
+    [
+      "Mrs. Selvig/Cobel",
+      25
+    ],
+    [
+      "Irving",
+      22
+    ],
+    [
+      "Mrs. Selvig",
+      15
+    ],
+    [
+      "Lumon Industries",
+      12
+    ],
+    [
+      "Dylan",
+      8
+    ],
+    [
+      "Kier Eagan",
+      5
+    ],
+    [
+      "Pips",
+      4
+    ],
+    [
+      "Burt",
+      1
+    ]
+  ],
+  "new_entities": [
+    [
+      "milchick",
+      4
+    ],
+    [
+      "graner",
+      1
+    ],
+    [
+      "peggy",
+      1
+    ],
+    [
+      "ricken",
+      1
+    ],
+    [
+      "the wellness waiting room painting",
+      1
+    ],
+    [
+      "lars tunbj\u00f6rk",
+      1
+    ],
+    [
+      "mystery figures",
+      1
+    ]
+  ],
+  "canonical_scene_refs": [
+    [
+      2,
+      49
+    ],
+    [
+      4,
+      19
+    ],
+    [
+      5,
+      16
+    ],
+    [
+      1,
+      15
+    ],
+    [
+      3,
+      15
+    ]
+  ],
+  "new_scenes_count": 6,
+  "canonical_theory_refs": [
+    [
+      4,
+      93
+    ],
+    [
+      1,
+      74
+    ],
+    [
+      3,
+      18
+    ],
+    [
+      2,
+      7
+    ]
+  ],
+  "new_theories_count": 78,
+  "top_sentiments": [
+    [
+      "confused",
+      195
+    ],
+    [
+      "impressed",
+      98
+    ],
+    [
+      "excited",
+      29
+    ],
+    [
+      "curious",
+      28
+    ],
+    [
+      "amused",
+      18
+    ],
+    [
+      "scared",
+      12
+    ],
+    [
+      "sad",
+      8
+    ],
+    [
+      "concerned",
+      7
+    ],
+    [
+      "disappointed",
+      6
+    ],
+    [
+      "shocked",
+      5
+    ]
+  ]
+}

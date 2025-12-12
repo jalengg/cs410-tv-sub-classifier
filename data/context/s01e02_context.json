@@ -1,0 +1,220 @@
+{
+  "entities": [
+    {
+      "canonical_name": "Mark Scout",
+      "aliases": [
+        "Mark",
+        "Mark S.",
+        "MS",
+        "mark scout"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 59
+    },
+    {
+      "canonical_name": "Helly R.",
+      "aliases": [
+        "Helly",
+        "Helly R.",
+        "Helly R.",
+        "Helly Eagan"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 34
+    },
+    {
+      "canonical_name": "Petey",
+      "aliases": [
+        "Petey",
+        "Petey D.",
+        "Petey D.",
+        "Petey the unsevered"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 15
+    },
+    {
+      "canonical_name": "Irving",
+      "aliases": [
+        "Irv",
+        "Irving the sleeper"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 20
+    },
+    {
+      "canonical_name": "Mrs. Selvig/Cobel",
+      "aliases": [
+        "Mrs. Selvig",
+        "Cobel",
+        "the boss lady"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 25
+    },
+    {
+      "canonical_name": "Dylan",
+      "aliases": [
+        "Dylan",
+        "Dylan the refiner"
+      ],
+      "type": "character",
+      "confidence": "high",
+      "mention_count": 10
+    },
+    {
+      "canonical_name": "Kier Eagan",
+      "aliases": [
+        "Kier",
+        "the founder"
+      ],
+      "type": "character",
+      "confidence": "medium",
+      "mention_count": 8
+    },
+    {
+      "canonical_name": "Lumon Industries",
+      "aliases": [
+        "Lumon",
+        "the company"
+      ],
+      "type": "organization",
+      "confidence": "high",
+      "mention_count": 30
+    },
+    {
+      "canonical_name": "Pips",
+      "aliases": [
+        "Pips",
+        "the restaurant"
+      ],
+      "type": "location",
+      "confidence": "medium",
+      "mention_count": 10
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "canonical_description": "Mark's interaction with Mrs. Selvig at home",
+      "variations": [
+        "Mark talking to his neighbor",
+        "the cookie scene with Mrs. Selvig",
+        "Mark's awkward neighborly encounter"
+      ],
+      "confidence": "high",
+      "mention_count": 15
+    },
+    {
+      "id": 2,
+      "canonical_description": "Irv's dozing off and seeing black goo",
+      "variations": [
+        "Irv falling asleep at work",
+        "the black goo scene",
+        "Irv's episode at the desk"
+      ],
+      "confidence": "high",
+      "mention_count": 12
+    },
+    {
+      "id": 3,
+      "canonical_description": "Helly's questioning about the numbers",
+      "variations": [
+        "Helly asking about scary numbers",
+        "the numbers scene",
+        "Helly's confusion over the numbers"
+      ],
+      "confidence": "high",
+      "mention_count": 10
+    },
+    {
+      "id": 4,
+      "canonical_description": "Dinner party scene with Mark's sister",
+      "variations": [
+        "the awkward dinner party",
+        "Mark's family dinner",
+        "the dinner scene with his sister"
+      ],
+      "confidence": "high",
+      "mention_count": 8
+    },
+    {
+      "id": 5,
+      "canonical_description": "Petey's warning to Mark about Lumon",
+      "variations": [
+        "Petey's advice to Mark",
+        "the basement conversation",
+        "Petey's warning scene"
+      ],
+      "confidence": "high",
+      "mention_count": 7
+    }
+  ],
+  "theories": [
+    {
+      "category": "character_identity",
+      "canonical_claim": "Mrs. Selvig is not severed and monitors Mark.",
+      "consensus": "strong_support",
+      "confidence": "high",
+      "mention_count": 20,
+      "sample_phrasings": [
+        "She's definitely not severed.",
+        "Mrs. Selvig is spying on Mark.",
+        "The boss is monitoring him."
+      ]
+    },
+    {
+      "category": "plot_prediction",
+      "canonical_claim": "Petey will reveal more about the severance process.",
+      "consensus": "moderate_support",
+      "confidence": "medium",
+      "mention_count": 15,
+      "sample_phrasings": [
+        "Petey knows more than he lets on.",
+        "Expect Petey to explain severance soon.",
+        "Petey's role will become crucial."
+      ]
+    },
+    {
+      "category": "symbolism",
+      "canonical_claim": "The black goo represents lost memories and trauma.",
+      "consensus": "strong_support",
+      "confidence": "high",
+      "mention_count": 12,
+      "sample_phrasings": [
+        "The goo symbolizes their lost past.",
+        "Black goo is tied to their trauma.",
+        "It represents the void of memories."
+      ]
+    },
+    {
+      "category": "workplace_nature",
+      "canonical_claim": "The severance process is a corporate experiment.",
+      "consensus": "strong_support",
+      "confidence": "high",
+      "mention_count": 18,
+      "sample_phrasings": [
+        "They're part of a corporate experiment.",
+        "The office is a testing ground.",
+        "Severance is a trial for control."
+      ]
+    }
+  ],
+  "metadata": {
+    "season": 1,
+    "episode": 2,
+    "episode_title": "Severance - 1x02 \"Half Loop\" - Episode Discussion",
+    "comment_count": 441,
+    "extraction_date": "2025-12-05T02:24:05.097134",
+    "model": "gpt-4o-mini",
+    "input_tokens": 24480,
+    "output_tokens": 1242,
+    "total_tokens": 25722,
+    "cost": 0.0044172
+  }
+}
