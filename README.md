@@ -22,19 +22,22 @@ The software is implemented as a 3-pass data pipeline.
 
 ## Quick Start
 
+NOTE TO GRADERS: running the full pipeline takes a few hours and costs around ~$5-10. Recommend to follow the "Quick Demo" section with the preprocessed data provided in this repo
+
 ### Prerequisites
 - Python 3.12+
-- OpenAI API key
-- Reddit comment data. https://the-eye.eu/redarcs. Download the `submissions.zst` and `comments.zst` files, and place them under `data/raw_reddit` directory
+- OpenAI API key (if you want to run the full pipeline)
+- Reddit comment data. (if you want to run the full pipeline) https://the-eye.eu/redarcs. Download the `submissions.zst` and `comments.zst` files, and place them under `data/raw_reddit` directory
 - NOTE: As of Nov 2025, Reddit only issues new API keys on an approval basis, so we can only use archived comment data, instead of ingesting data directly from the API, unfortunately: https://www.reddit.com/r/redditdev/comments/1oug31u/introducing_the_responsible_builder_policy_new/
 
-### Installation
+### Quick Demo
+
+Installation
 ```bash
 pip install -r requirements.txt
-echo "your-openai-api-key" > ~/OPENAI_API_KEY
 ```
 
-### Run the Dashboard
+Run the dashboard using the pre-processed provided data
 ```bash
 streamlit run app.py
 ```
@@ -80,6 +83,11 @@ Convert to flat CSV files for analysis
 NOTE: To see a demo of the website using the pre-processed Severance sample data provided in this repo, skip to STEP 5.
 
 ```bash
+
+# 0. Open AI key 
+```
+echo "your-openai-api-key" > ~/OPENAI_API_KEY
+```
 # 1. Parse Reddit archive (one-time setup)
 python scripts/parse_archive_data.py
 
